@@ -1,1 +1,9 @@
 *.rpyc
+
+/*
+!game/
+
+game/*
+!game/tl/
+
+game/tl/None
