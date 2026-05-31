@@ -1,2 +1,7 @@
-# Imperial-Chronicles---Chinese-Patch
-Visutal Novel game Imperial Chronicles Chinese patch
+# Imperial-Chronicles 中文补丁
+
+大部分都是用AI翻译的，从俄文直接翻译到中文。
+
+手动替换了部分人名，觉得音译的中文，不如英文有辨识度。
+
+欢迎查漏补缺。
