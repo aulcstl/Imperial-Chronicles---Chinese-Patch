@@ -10,7 +10,7 @@ translate english intro_b5ebca9d:
 translate english intro_ebd8d679:
 
     # vall "Я ведь попросила наточить его."
-    vall "我可是让你磨过它的。"
+    vall "我之前就说过让你磨一下的。"
 
 # game/intro.rpy:5
 translate english intro_c235ff5d:
@@ -22,7 +22,7 @@ translate english intro_c235ff5d:
 translate english intro_7bd9987a:
 
     # vall "А нам еще нужно достать картины из рам."
-    vall "我们还得把画从画框里取出来呢。"
+    vall "我们还得把画从画框里拿出来。"
 
 # game/intro.rpy:7
 translate english intro_1f1991f7:
@@ -40,7 +40,7 @@ translate english intro_11d4ae07:
 translate english intro_0dc054af:
 
     # vall "{size=+8}Я же просила тебя никуда не уходить. Ты нужна мне здесь.{/size}"
-    vall "{size=+8}我告诉过你哪儿也别去。我这里需要你。{/size}"
+    vall "{size=+8}我跟你说过哪儿也别去。你得帮我干活。{/size}"
 
 # game/intro.rpy:11
 translate english intro_534a6c8e:
@@ -82,25 +82,25 @@ translate english intro_e0e5ea59:
 translate english intro_3b28bfaf:
 
     # vall "Ну ты же не отвечаешь."
-    vall "那不是因为你不搭理我嘛。"
+    vall "谁让你不回答我。"
 
 # game/intro.rpy:20
 translate english intro_638d0e7d:
 
     # aless "Я слежу нет ли за нами хвоста."
-    aless "我在盯梢，看有没有尾巴跟着我们。"
+    aless "我在盯梢，看看有没有尾巴跟着我们。"
 
 # game/intro.rpy:21
 translate english intro_79b54b74:
 
     # vall "Они не знают, кто, когда и как украл их картины, с чего бы за нами должен быть хвост?"
-    vall "他们根本不知道是谁、什么时候、怎么偷了他们的画，凭什么会有人跟踪我们？"
+    vall "他们根本不知道是谁、什么时候、怎么偷了他们的画，怎么能跟踪我们？"
 
 # game/intro.rpy:22
 translate english intro_8d177050:
 
     # aless "Ну мало ли..."
-    aless "那谁知道呢……"
+    aless "万一呢……"
 
 # game/intro.rpy:23
 translate english intro_c88abcf2:
@@ -112,7 +112,7 @@ translate english intro_c88abcf2:
 translate english intro_9568e396:
 
     # aless "Ладно-ладно. Я поняла."
-    aless "行啦，行啦，我懂了。"
+    aless "行啦，行啦，我知道了。"
 
 # game/intro.rpy:26
 translate english intro_9ec0af26:
@@ -130,7 +130,7 @@ translate english intro_05e958a6:
 translate english intro_784d699c:
 
     # vall "Я занята подготовкой к охоте. Но если ты хочешь добыть нам еды я готова поменяться."
-    vall "我正忙着准备打猎呢。不过，如果你想给咱们弄点吃的回来，我倒乐意跟你换换。"
+    vall "我正忙着准备打猎呢。不过，你要是想给咱们弄点吃的回来，我倒乐意跟你换换。"
 
 # game/intro.rpy:29
 translate english intro_9751f1b3:
@@ -142,13 +142,13 @@ translate english intro_9751f1b3:
 translate english intro_9478e2ff:
 
     # vall "Потому что в палатке поместятся либо холсты и мы либо только картины целиком."
-    vall "因为帐篷里要么放得下画布和我们，要么就只放得下整幅带框的画。"
+    vall "因为帐篷里要么同时放得下画布和我们，要么就只能放得下整幅带框的画。"
 
 # game/intro.rpy:31
 translate english intro_56d6a7eb:
 
     # aless "Пусть стоят здесь, что с ними случится?"
-    aless "就让它们放这儿呗，能出什么事？"
+    aless "就把它们搁这儿呗，能出什么事？"
 
 # game/intro.rpy:32
 translate english intro_f4761c64:
@@ -160,7 +160,7 @@ translate english intro_f4761c64:
 translate english intro_4f13ba28:
 
     # aless "...Ладно, ты меня убедила, я готова поспать на улице."
-    aless "……行吧，你把我说服了，我准备好睡大街了。"
+    aless "……行吧，你说服我了，我准备睡大街了。"
 
 # game/intro.rpy:34
 translate english intro_fd227d65:
@@ -178,13 +178,13 @@ translate english intro_c553525f:
 translate english intro_0b94b98c:
 
     # aless "Какая-то мазня. Кому вообще нужна эта чушь?"
-    aless "这画的什么东西，乱七八糟的，谁会要这种玩意儿？"
+    aless "画的什么乱七八糟的东西。这种东西谁稀罕啊"
 
 # game/intro.rpy:38
 translate english intro_f68e3571:
 
     # vall "Это не чушь, а королевская свадьба в серебристом лесу недалеко от Тирантиса, кисти знаменитого художника ван дер Кейса."
-    vall "这可不是乱七八糟的玩意儿，这是提兰提斯附近银月森林里的皇家婚礼，出自著名画家范德·凯斯之手。"
+    vall "这可不是乱七八糟的东西，这是Tirantis附近银色森林里的皇家婚礼，是著名画家范·德·凯斯的作品。"
 
 # game/intro.rpy:39
 translate english intro_6b508c49:
@@ -214,7 +214,7 @@ translate english intro_34f45f9e:
 translate english intro_05c0dbc3:
 
     # aless "Это может и не удивительно, а вот то, что мы вынужденны воровать, чтобы есть, хотя королева этих земель одной с нами крови - вот это действительно странно."
-    aless "这不稀奇，稀奇的是，我们居然得靠偷东西才有饭吃，而这片土地的王后跟我们同宗同源——这才叫真的怪事。"
+    aless "这不稀奇，稀奇的是，我们居然得靠偷东西才有饭吃，而这片土地的王后跟我们同宗同源——这才真的叫怪事。"
 
 # game/intro.rpy:44
 translate english intro_36729b26:
@@ -256,13 +256,13 @@ translate english intro_lore_b8068efc:
 translate english intro_lore_aef82120:
 
     # vall "Все изменилось когда императором стал Лотрик 2, прозванный в народе красным."
-    vall "一切都在Lotric II即位后改变了，这位皇帝在民间被称作“红皇”。"
+    vall "但这一切都在Lotric II即位后改变了，这位皇帝在民间被称作“红皇”。"
 
 # game/intro.rpy:60
 translate english intro_lore_e6f2f585:
 
     # vall "И назван он был так не с проста. Император сменил все золотые знамена на кроваво-алые, приблизил к себе множество генералов армий и начал укреплять и централизовать власть в Империи, отнимая любую самостоятельность у своих подданных."
-    vall "他这个称号可不是随便起的。这位皇帝撤换了所有金色的旗帜，代之以血红色的旗帜，他提拔了大量军队将领到身边，开始强化和集中皇权，剥夺他臣属的任何自主权。"
+    vall "他这个称号可不是随便起的。这位皇帝撤换了所有金色的旗帜，代之以血红色的旗帜，他提拔了大量军队将领到身边，开始强化和集中皇权，剥夺他臣属的所有自主权。"
 
 # game/intro.rpy:62
 translate english intro_lore_92552aa5:
@@ -274,7 +274,7 @@ translate english intro_lore_92552aa5:
 translate english intro_lore_8bfa37fe:
 
     # vall "Долгих 20 лет кроваво-красный танец ходил по Империи, Император хотел получить всю власть которую только мог."
-    vall "漫长的二十年里，这个血红色的舞步踏遍了整个帝国，这位皇帝想要攫取所有他能得到的权力。"
+    vall "在漫长的二十年里，这个血红色的舞步踏遍了整个帝国，这位皇帝想要攫取所有他能得到的权力。"
 
 # game/intro.rpy:64
 translate english intro_lore_0a7576b4:
@@ -304,7 +304,7 @@ translate english intro_lore_6c9a4c81:
 translate english intro_lore_2b2761f8:
 
     # vall "Но не все... На севере зрел самый большой заговор - поддерживаемые гномами лорды тайно собрали и вооружили большую армию из недовольных со всей Империи."
-    vall "但并非所有人……在北方，一场最大的阴谋正在酝酿——在矮人的支持下，北境诸侯们秘密地召集并武装起一支大军，其成员来自帝国各地对现状心怀不满的人。"
+    vall "但并非所有人……在北方，一场最大的阴谋正在酝酿——在矮人的支持下，北境诸侯们秘密地召集并武装起了一支大军，其成员来自帝国各地对现状心怀不满的人。"
 
 # game/intro.rpy:71
 translate english intro_lore_6d4e790d:
@@ -388,19 +388,19 @@ translate english intro_lore_de6119b3:
 translate english intro_lore_cbe4beb8:
 
     # vall "Но так как их влияние было ослабленно громким поражением, они покинули столицу и вслед за северными лордами провозгласили независимость и в городах западных княжеств золотые и красные знамена быстро поменяли на зеленые."
-    vall "但一场惨痛的大败已令他们势力大减，在影响力被削弱的情况下，他们离开了帝都，继北境诸侯之后，也宣布了独立。在西部各公国的城市中，金色和红色的旗帜迅速被换成了绿色的。"
+    vall "但一场惨痛的大败已令他们势力大减，在影响力被削弱的情况下，他们离开了帝都，继北境诸侯之后，他们也宣布了独立。在西部各公国的城市中，金色和红色的旗帜迅速被换成了绿色的。"
 
 # game/intro.rpy:92
 translate english intro_lore_6be30c31:
 
     # vall "Орки также отказались продолжать служить незаконному королю, они, как и большинство людей в империи были уверены, что отца убил сам Регис, который в отличие от, заключенного в тюрьму брата не участвовал в походах отца, предпочитая плести интриги в столице."
-    vall "兽人也拒绝继续为一个不合法的国王效力，他们和帝国内的多数人一样，深信是Regis本人杀害了父亲。毕竟，与他那个身陷囹圄的兄长不同，Regis并未随父出征，倒更喜欢在帝都里编织阴谋诡计。"
+    vall "兽人也拒绝继续为一个不合法的国王效力，他们和帝国内的多数人一样，深信是Regis杀害了父亲。毕竟，与他那个身陷囹圄的兄长不同，Regis并未随父出征，倒更喜欢在帝都里编织阴谋诡计。"
 
 # game/intro.rpy:93
 translate english intro_lore_61a5da1c:
 
     # vall "Орки демонстративно сожгли знамена и покинули и так обескровленную армию."
-    vall "兽人示威性地烧毁了旗帜，离开了这本已大伤元气的军队。"
+    vall "兽人示威性地烧毁了旗帜，离开了本已元气大伤的军队。"
 
 # game/intro.rpy:95
 translate english intro_lore_97a0fb5b:
@@ -4478,13 +4478,13 @@ translate english strings:
 translate english intro_f865e089:
 
     # vall "Это не чушь, а королевская свадьба в серебристом лесу недалеко от Тирантиса, кисти знаменитого художника Ван Дер Кейса."
-    vall "这可不是乱七八糟的玩意儿，这是提兰提斯附近银月森林里的皇家婚礼，出自著名画家范德·凯斯之手。"
+    vall "这可不是乱七八糟的东西，这是Tirantis附近银色森林里的皇家婚礼，是著名画家范·德·凯斯的作品。"
 
 # game/intro.rpy:62
 translate english intro_lore_312e3224:
 
     # vall "Многие противились Алому Императору. Но когда кто-то пытался сохранить хотя бы часть своей прежней власти - Красный Император отнимал ее огнем и кровью."
-    vall "许多人反抗这位猩红皇帝。但每当有人试图保留哪怕一丁点儿昔日的权力时——红皇便会用火与血将其夺走。"
+    vall "许多人反对这位猩红皇帝。但每当有人试图保留哪怕一丁点儿昔日的权力时——红皇便会用火与血将其夺走。"
 
 # game/intro.rpy:565
 translate english intro6_1f6cc90b:
@@ -4570,7 +4570,7 @@ translate english intro_mage_82f37649:
 translate english intro_889c8145:
 
     # vall "Потому что в палатке поместятся либо холсты и мы, либо только картины целиком."
-    vall "因为帐篷里要么放得下画布和我们，要么就只放得下整幅带框的画。"
+    vall "因为帐篷里要么同时放得下画布和我们，要么就只能放得下整幅带框的画。"
 
 # game/intro.rpy:116
 translate english intro_lore_a04c9939:
@@ -4698,7 +4698,7 @@ translate english intro7_bath_d9774a06:
 translate english intro_109c7c20:
 
     # aless "Это может и не удивительно, а вот то, что мы вынуждены воровать, чтобы есть, хотя королева этих земель одной с нами крови - вот это действительно странно."
-    aless "这不稀奇，稀奇的是，我们居然得靠偷东西才有饭吃，而这片土地的王后跟我们同宗同源——这才叫真的怪事。"
+    aless "这不稀奇，稀奇的是，我们居然得靠偷东西才有饭吃，而这片土地的王后跟我们同宗同源——这才真的叫怪事。"
 
 # game/intro.rpy:77
 translate english intro_lore_e37c4d95:
