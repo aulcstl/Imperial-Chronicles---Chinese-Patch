@@ -1942,3 +1942,17 @@ translate english westroad_3bf9953b:
     # me "Я думаю разница все-таки есть. Сидела когда-нибудь на неудобном стуле?"
     me "你觉得没区别吗？你坐过不舒服的椅子吗？"
 
+# TODO: Translation updated at 2026-05-27 22:54
+
+# game/a7/4execution_road.rpy:131
+translate english excecution4_84d2f5dd:
+
+    # guran "ХУЙ ВАМ, А НЕ МОЯ ГОЛОВА!"
+    guran "去你妈的，想要我的脑袋？！"
+
+# game/a7/4execution_road.rpy:132
+translate english excecution4_87d1268a:
+
+    # guard "{size=+12}Сука!{/size}"
+    guard "贱人！"
+

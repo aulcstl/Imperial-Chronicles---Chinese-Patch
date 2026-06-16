@@ -4520,7 +4520,7 @@ translate english shipway5_c55ba0d0:
 translate english shipway5_6bd76514:
 
     # captain "Мы опередили два других корабля на полдня. Можем не торопится."
-    captain "我们比其他两艘船快了半天。可以不用着急。"
+    captain "我们比另外两艘船快了半天。不用着急。"
 
 # TODO: Translation updated at 2026-03-31 04:47
 
@@ -4529,4 +4529,12 @@ translate english shipway_cass_90c66e21:
 
     # "Некоторое время спустя."
     "过了一会."
+
+# TODO: Translation updated at 2026-04-01 18:57
+
+# game/a13/2shipway.rpy:799
+translate english shipway5_c3c67e02:
+
+    # captain "Мы опередили два других корабля на полдня. Можем не торопиться. "
+    captain "我们比另外两艘船快了半天。不用着急。"
 

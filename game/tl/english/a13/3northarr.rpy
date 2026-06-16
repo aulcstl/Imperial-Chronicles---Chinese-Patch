@@ -5646,3 +5646,23 @@ translate english northarr_d84c851d:
     # aurora "[mename], ты серьезно?"
     aurora "[mename]，你说真的？"
 
+# TODO: Translation updated at 2026-05-27 22:54
+
+# game/a13/3northarr.rpy:147
+translate english northarr_55ef4f96:
+
+    # cass "Разве не любой момент жизни уникален?."
+    cass "难道生命的每个瞬间不都是独一无二的吗？"
+
+# game/a13/3northarr.rpy:786
+translate english northarr4_54ba5c4c:
+
+    # dubov "Я пишу вам сопроводительные письма."
+    dubov "我正在给您写说明信。"
+
+# game/a13/3northarr.rpy:845
+translate english northarr4_54ba5c4c_1:
+
+    # dubov "Я пишу вам сопроводительные письма."
+    dubov "我正在给您写说明信。"
+

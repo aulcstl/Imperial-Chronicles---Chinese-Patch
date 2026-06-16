@@ -765,3 +765,84 @@ translate english strings:
 
     old "Степан"
     new "Stepan"
+
+    old "Корвин"
+    new "Corwin"
+
+    old "Миранда"
+    new "Miranda"
+
+    old "Корвин Младший"
+    new "小Corwin"
+
+    old "Хелен"
+    new "Helen Ukradskaya"
+
+    old "Эйрик"
+    new "Eirik"
+
+    old "Муррабард"
+    new "Murrabard"
+
+    old "Габбтон"
+    new "Gabbton"
+
+    old "Гиель"
+    new "Giel"
+
+    old "Гастон"
+    new "Gaston"
+
+    old "Скаладан"
+    new "Scaladan"
+
+    old "Безымянная сестра"
+    new "无名姐妹"
+
+    old "Клерик"
+    new "Cleric"
+
+    old "Сестра Леонида"
+    new "Leonida姐妹"
+
+    old "Тэос"
+    new "Theos"
+
+    old "Горец"
+    new "高地人"
+
+    old "Крастан"
+    new "Krastan"
+
+    old "Макхал"
+    new "Makhal"
+
+    old "Горянка"
+    new "高地女孩"
+
+    old "Войцех"
+    new "Vojceh"
+
+    old "Горцы"
+    new "高地人"
+
+    old "Амина"
+    new "Amina"
+
+    old "Алия"
+    new "Alia"
+
+    old "Монтак"
+    new "Montak"
+
+    old "Аслан"
+    new "Aslan"
+
+    old "Воины Скаладана"
+    new "Skaladan战士"
+
+    old "Украдский"
+    new "Ukradsky"
+
+    old "Мэри"
+    new "Mary"
