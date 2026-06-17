@@ -5214,5 +5214,6 @@ translate english lords_lords7_a0158c14:
 translate english lords_lords_cass_e40b8fac:
 
     # cass "Это от моей матери. Люди с Черной Косы иногда рождаются с жабрами и перепонками помеж пальцев. Так что зеленоватый цвет кожи это еще не так страшно."
-    cass "这随我妈那边。黑角的人有时生来就带着鳃和指间蹼。所以皮肤泛点绿还算不上最糟糕的。"
+    cass "It's from my mother. People from the Black Scythe are sometimes born with gills and webbing between their fingers. So the greenish skin color isn't all that scary.
+"
 

@@ -2164,349 +2164,349 @@ translate english northfest_5c76dbe7_1:
 translate english northfest_8f972ccd:
 
     # me "{i}Ладно, пора на свадьбу.{/i}"
-    me "358: {i}……{/i}"
+    me "{i}好了，该去参加婚礼了。{/i}"
 
 # game/a14/4northfest.rpy:404
 translate english northfest_f3333816:
 
     # "Следующим утром."
-    "{i}好了，该去参加婚礼了。{/i}"
+    "次日清晨。"
 
 # game/a14/4northfest.rpy:405
 translate english northfest_7324ca88:
 
     # makhal "...невеста спрятала ленту где-то в пещере. Задача - первым ее найти."
-    makhal "次日清晨。"
+    makhal "……新娘把丝带藏在洞窟里的某个地方了。任务就是第一个找到它。"
 
 # game/a14/4northfest.rpy:406
 translate english northfest_71fa9a97:
 
     # me "А она может быть где угодно?"
-    me "……新娘把丝带藏在洞窟里的某个地方了。任务就是第一个找到它。"
+    me "丝带可能藏在任何地方吗？"
 
 # game/a14/4northfest.rpy:407
 translate english northfest_cbab3647:
 
     # makhal "Она там, где ее спрятала моя дочь."
-    makhal "丝带可能藏在任何地方吗？"
+    makhal "就在我女儿藏的地方。"
 
 # game/a14/4northfest.rpy:408
 translate english northfest_e531fdc1:
 
     # krastan "Может быть хоть в самом начале."
-    krastan "就在我女儿藏的地方。"
+    krastan "甚至可能就在入口处。"
 
 # game/a14/4northfest.rpy:409
 translate english northfest_489a247d_3:
 
     # me "Правда?"
-    me "甚至可能就在入口处。"
+    me "真的？"
 
 # game/a14/4northfest.rpy:410
 translate english northfest_c7e39654:
 
     # makhal "Правда. Но это вряд ли."
-    makhal "真的？"
+    makhal "真的。不过这不太可能。"
 
 # game/a14/4northfest.rpy:411
 translate english northfest_54e616ea:
 
     # me "И что? Все эти люди ломануться в пещеру одновременно?"
-    me "真的。不过这不太可能。"
+    me "怎么？难道那些人都会一窝蜂地同时冲进洞窟吗？"
 
 # game/a14/4northfest.rpy:412
 translate english northfest_04e4cbcb:
 
     # krastan "А может стоит приходить вовремя и выслушивать все правила вместе со всеми?"
-    krastan "怎么？难道那些人都会一窝蜂地同时冲进洞窟吗？"
+    krastan "或许你该按时到场，跟大家一起把规则听全了？"
 
 # game/a14/4northfest.rpy:413
 translate english northfest_6fb1b367:
 
     # makhal "Не оскорбляй нашего гостя, Крастан."
-    makhal "或许你该按时到场，跟大家一起把规则听全了？"
+    makhal "别侮辱我们的客人，Krastan。"
 
 # game/a14/4northfest.rpy:414
 translate english northfest_c05eff3d:
 
     # me "Я не оскорблен."
-    me "别侮辱我们的客人，Krastan。"
+    me "我没觉得被侮辱。"
 
 # game/a14/4northfest.rpy:415
 translate english northfest_58e32d16:
 
     # makhal "Скорость не имеет значения. В пещере множество ходов."
-    makhal "我没觉得被侮辱。"
+    makhal "速度不重要。洞窟里岔道很多。"
 
 # game/a14/4northfest.rpy:416
 translate english northfest_b1540e4c:
 
     # me "Выходит, все зависит от удачи."
-    me "速度不重要。洞窟里岔道很多。"
+    me "看来全靠运气了。"
 
 # game/a14/4northfest.rpy:417
 translate english northfest_36ae6eb8:
 
     # makhal "Скорее от внимательности."
-    makhal "看来全靠运气了。"
+    makhal "不如说靠眼力。"
 
 # game/a14/4northfest.rpy:419
 translate english northfest_e534cd5d:
 
     # krastan "Ну так что, жених. Объявишь о начале? Тем более раз уж это твои пещеры."
-    krastan "不如说靠眼力。"
+    krastan "那么，新郎。该宣布开始了吧？再说了，这好歹是你的洞窟。"
 
 # game/a14/4northfest.rpy:420
 translate english northfest_56701e80:
 
     # wojceh "Это не мои пещеры."
-    wojceh "那么，新郎。该宣布开始了吧？再说了，这好歹是你的洞窟。"
+    wojceh "这不是我的洞窟。"
 
 # game/a14/4northfest.rpy:421
 translate english northfest_96562b34:
 
     # krastan "Скоро будут твоими. Такие большие. Глубокие. Ты наверняка рад."
-    krastan "这不是我的洞窟。"
+    krastan "很快就归你了。这么大。这么深。你肯定高兴坏了吧。"
 
 # game/a14/4northfest.rpy:422
 translate english northfest_d8a02295:
 
     # wojceh "Ага. Безумно счастлив."
-    wojceh "很快就归你了。这么大。这么深。你肯定高兴坏了吧。"
+    wojceh "是啊。高兴得不得了。"
 
 # game/a14/4northfest.rpy:423
 translate english northfest_c8d35646:
 
     # krastan "И всего лишь за пару полос леса! Он тебе и даром не нужен был, правда?"
-    krastan "是啊。高兴得不得了。"
+    krastan "而且只用一小片林地就换来了！反正那片地你也用不着，对吧？"
 
 # game/a14/4northfest.rpy:424
 translate english northfest_ee4fa5d4:
 
     # wojceh "Нужен."
-    wojceh "而且只用一小片林地就换来了！反正那片地你也用不着，对吧？"
+    wojceh "用得着。"
 
 # game/a14/4northfest.rpy:425
 translate english northfest_e05b57b1:
 
     # krastan "Ну... может однажды эта земля к тебе вернется. Правда уже без леса. Хахахаха."
-    krastan "用得着。"
+    krastan "嗯……也许有一天这片地会回到你手上。当然了，上面没了林子。哈哈哈哈。"
 
 # game/a14/4northfest.rpy:426
 translate english northfest_42ae495a:
 
     # wojceh "..."
-    wojceh "嗯……也许有一天这片地会回到你手上。当然了，上面没了林子。哈哈哈哈。"
+    wojceh "……"
 
 # game/a14/4northfest.rpy:427
 translate english northfest_dd243c92:
 
     # makhal "Закрой рот, Крастан."
-    makhal "……"
+    makhal "闭上你的嘴，Krastan。"
 
 # game/a14/4northfest.rpy:428
 translate english northfest_19400dcd:
 
     # krastan "Что? Я просто рад за Корхалис моей сестры."
-    krastan "闭上你的嘴，Krastan。"
+    krastan "怎么？我只是替我姐的嫁妆高兴。"
 
 # game/a14/4northfest.rpy:429
 translate english northfest_60a6515f:
 
     # makhal "Объявляй о начале."
-    makhal "怎么？我只是替我姐的嫁妆高兴。"
+    makhal "宣布开始。"
 
 # game/a14/4northfest.rpy:430
 translate english northfest_89936d0e:
 
     # wojceh "{size=+4}Начинаем!{/size}"
-    wojceh "宣布开始。"
+    wojceh "{size=+4}开始！{/size}"
 
 # game/a14/4northfest.rpy:432
 translate english northfest_7299c56c:
 
     # me "{i}Ага. Так они выменяли эти пещеры.{/i}"
-    me "{size=+4}开始！{/size}"
+    me "{i}啊。难怪他们能换来这些洞窟。{/i}"
 
 # game/a14/4northfest.rpy:433
 translate english northfest_fe8b6ba4:
 
     # me "{i}Ну да. Логично. Горы это часть Высокой Страны. И пещеры соответственно тоже.{/i}"
-    me "{i}啊。难怪他们能换来这些洞窟。{/i}"
+    me "{i}是了。很合理。山脉属于高原的一部分。洞窟自然也是。{/i}"
 
 # game/a14/4northfest.rpy:434
 translate english northfest_b662b175:
 
     # me "{i}Поменять их на землю это как поменять горсть песка на горсть золота.{/i}"
-    me "{i}是了。很合理。山脉属于高原的一部分。洞窟自然也是。{/i}"
+    me "{i}拿土地换洞窟，就跟拿一把沙子换一把金子差不多。{/i}"
 
 # game/a14/4northfest.rpy:435
 translate english northfest_77d7c54d:
 
     # me "{i}А если лорды соберутся эту землю возвращать - к тому моменту леса на ней уже не останется.{/i}"
-    me "{i}拿土地换洞窟，就跟拿一把沙子换一把金子差不多。{/i}"
+    me "{i}等到领主们想收回那块地的时候——上面早就没有森林了。{/i}"
 
 # game/a14/4northfest.rpy:436
 translate english northfest_9396e9ec:
 
     # me "{i}Да уж... горцы выжимают из этой ситуации максимум.{/i}"
-    me "{i}等到领主们想收回那块地的时候——上面早就没有森林了。{/i}"
+    me "{i}唉……山民真是把这场婚事的好处榨到了极限。{/i}"
 
 # game/a14/4northfest.rpy:437
 translate english northfest_1b7a2651:
 
     # me "{i}Возможно насилие действительно неизбежно.{/i}"
-    me "{i}唉……山民真是把这场婚事的好处榨到了极限。{/i}"
+    me "{i}看来暴力或许真的无法避免。{/i}"
 
 # game/a14/4northfest.rpy:439
 translate english northfest_ce12434b:
 
     # makhal "А ты чего остался?"
-    makhal "{i}看来暴力或许真的无法避免。{/i}"
+    makhal "你怎么留下来了？"
 
 # game/a14/4northfest.rpy:440
 translate english northfest_dfcceeac_2:
 
     # me "М?"
-    me "你怎么留下来了？"
+    me "嗯？"
 
 # game/a14/4northfest.rpy:441
 translate english northfest_d6363d89:
 
     # makhal "Ты не будешь искать ленту?"
-    makhal "嗯？"
+    makhal "你不去找丝带？"
 
 # game/a14/4northfest.rpy:442
 translate english northfest_0edc7b69:
 
     # me "Я, пожалуй, откажусь."
-    me "你不去找丝带？"
+    me "我想，我就不参加了。"
 
 # game/a14/4northfest.rpy:443
 translate english northfest_da974851:
 
     # makhal "Почему?"
-    makhal "我想，我就不参加了。"
+    makhal "为什么？"
 
 # game/a14/4northfest.rpy:444
 translate english northfest_3820771a_9:
 
     # me "..."
-    me "为什么？"
+    me "……"
 
 # game/a14/4northfest.rpy:445
 translate english northfest_3236dd38:
 
     # makhal "Мне показалось, что вчера тебе понравилось."
-    makhal "……"
+    makhal "昨天看你还挺喜欢的。"
 
 # game/a14/4northfest.rpy:446
 translate english northfest_f2e54314:
 
     # me "Не люблю темноту."
-    me "昨天看你还挺喜欢的。"
+    me "我不喜欢黑暗。"
 
 # game/a14/4northfest.rpy:447
 translate english northfest_077497c8:
 
     # makhal "Ну так и не иди глубоко."
-    makhal "我不喜欢黑暗。"
+    makhal "那别往深处走就行了。"
 
 # game/a14/4northfest.rpy:448
 translate english northfest_fa5b075f:
 
     # me "А в чем тогда смысл?"
-    me "那别往深处走就行了。"
+    me "那还有什么意思？"
 
 # game/a14/4northfest.rpy:449
 translate english northfest_60809df5:
 
     # makhal "Лента может быть где угодно. Я был на свадьбах, где ее прятали у камня на входе. Все бежали мимо, а самый внимательный находил."
-    makhal "那还有什么意思？"
+    makhal "丝带可能在任何一个地方。我参加过的婚礼里，有人就把丝带藏在入口的大石头旁。所有人都跑过去了，结果给那个最细心的人找到了。"
 
 # game/a14/4northfest.rpy:450
 translate english northfest_3820771a_10:
 
     # me "..."
-    me "丝带可能在任何一个地方。我参加过的婚礼里，有人就把丝带藏在入口的大石头旁。所有人都跑过去了，结果给那个最细心的人找到了。"
+    me "……"
 
 # game/a14/4northfest.rpy:451
 translate english northfest_3a528895:
 
     # makhal "Как хочешь."
-    makhal "……"
+    makhal "随你吧。"
 
 # game/a14/4northfest.rpy:453
 translate english northfest_88772931:
 
     # me "{i}Ухх... внушительно.{/i}"
-    me "随你吧。"
+    me "{i}唔……真够壮观的。{/i}"
 
 # game/a14/4northfest.rpy:454
 translate english northfest_68a503ff:
 
     # me "{i}А это только вход.{/i}"
-    me "{i}唔……真够壮观的。{/i}"
+    me "{i}而这还只是入口。{/i}"
 
 # game/a14/4northfest.rpy:455
 translate english northfest_7e023d16:
 
     # me "{i}Если эта лента не на видном месте или хотя бы не светится в темноте ее же никогда не найдут.{/i}"
-    me "{i}而这还只是入口。{/i}"
+    me "{i}除非这丝带放在醒目的地方，或者在黑暗里自己发光，否则根本不可能找到。{/i}"
 
 # game/a14/4northfest.rpy:456
 translate english northfest_3829f1d1:
 
     # me "{i}Может и вправду поискать? Все равно делать нечего.{/i}"
-    me "{i}除非这丝带放在醒目的地方，或者在黑暗里自己发光，否则根本不可能找到。{/i}"
+    me "{i}也许我真的该去找找？反正也没别的事做。{/i}"
 
 # game/a14/4northfest.rpy:457
 translate english northfest_cc331854:
 
     # me "{i}Просто не буду заходить глубоко и все.{/i}"
-    me "{i}也许我真的该去找找？反正也没别的事做。{/i}"
+    me "{i}只要不往深处走就行了。{/i}"
 
 # game/a14/4northfest.rpy:458
 translate english northfest_5c76dbe7_2:
 
     # me "{i}...{/i}"
-    me "{i}只要不往深处走就行了。{/i}"
+    me "{i}……{/i}"
 
 # game/a14/4northfest.rpy:460
 translate english northfest_db08fefe:
 
     # amina "О. Ты тоже участвуешь?"
-    amina "{i}……{/i}"
+    amina "哦。你也参加吗？"
 
 # game/a14/4northfest.rpy:461
 translate english northfest_38c39b7c_1:
 
     # me "Вроде того."
-    me "哦。你也参加吗？"
+    me "算是吧。"
 
 # game/a14/4northfest.rpy:462
 translate english northfest_fe2fce64:
 
     # amina "Иногда ее прямо на старте прячут."
-    amina "算是吧。"
+    amina "有时候他们会直接把丝带藏在起点。"
 
 # game/a14/4northfest.rpy:463
 translate english northfest_965a9ffd:
 
     # me "Ага. Для самых внимательных."
-    me "有时候他们会直接把丝带藏在起点。"
+    me "嗯。专给最细心的人。"
 
 # game/a14/4northfest.rpy:464
 translate english northfest_60d25732:
 
     # amina "Да. Не обязательно прямо в саму пещеру лезть. Иногда лента лежит в очевидном месте."
-    amina "嗯。专给最细心的人。"
+    amina "对。不用非得爬进洞窟深处。有时候丝带就放在明显的地方。"
 
 # game/a14/4northfest.rpy:465
 translate english northfest_bb686f7a:
 
     # me "Ну да."
-    me "对。不用非得爬进洞窟深处。有时候丝带就放在明显的地方。"
+    me "嗯，对。"
 
 # game/a14/4northfest.rpy:466
 translate english northfest_2416083a:
