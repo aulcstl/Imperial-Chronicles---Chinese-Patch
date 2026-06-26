@@ -316,7 +316,7 @@ translate english cold_council_1161fe0d:
 translate english cold_council_9d4dfe08:
 
     # cath "Лорд Корвин из Белой Рощи. Лорд Украдский из Кленовых Башен. Лорд Гастон из Даркхолла. Лорд Скаладан из Грачиного Дома."
-    cath "来自白林的科文领主。Ukradsky领主来自枫塔。来自黑暗厅的加斯顿领主。鸦巢的斯卡拉丹领主。"
+    cath "来自白林的Corvin领主。Ukradsky领主来自枫塔。来自黑暗厅的Gaston领主。鸦巢的Skaladan领主。"
 
 # game/a14/9cold_council.rpy:66
 translate english cold_council_976f9a68:
@@ -340,7 +340,7 @@ translate english cold_council_ffc51265:
 translate english cold_council_496fc2ba:
 
     # cath "Лорд Острожский из Каменного Копья и лорд Яромир из Березового Пика прибудут после вас."
-    cath "石矛的奥斯特罗日斯基领主和桦峰的亚罗米尔领主将在您之后抵达。"
+    cath "石矛堡的Ostrozhskys领主和桦峰的亚罗米尔领主将在您之后抵达。"
 
 # game/a14/9cold_council.rpy:70
 translate english cold_council_4eb2c21d:
@@ -370,7 +370,7 @@ translate english cold_council_b82f9455:
 translate english cold_council_4f3509b1:
 
     # me "Я думал лорд Острожский ведет жизнь затворника."
-    me "我还以为奥斯特罗日斯基领主过着隐居的生活。"
+    me "我还以为Ostrozhskys领主过着隐居的生活。"
 
 # game/a14/9cold_council.rpy:75
 translate english cold_council_7dfbb977:
@@ -1324,7 +1324,7 @@ translate english cold_council_f8987cf3:
 translate english cold_council_be1cb2a5:
 
     # me "И что вы сделаете? Откупитесь от него? Или его голос не так важен на Вече?"
-    me "那您会怎么做？用钱收买他？还是说他的声音在维切会议上不那么重要？"
+    me "那您会怎么做？用钱收买他？还是说他的声音在议事会会议上不那么重要？"
 
 # game/a14/9cold_council.rpy:251
 translate english cold_council_6cf573f6:
@@ -1474,13 +1474,13 @@ translate english cold_council_b88613b8:
 translate english cold_council_cd7d505c:
 
     # me "Ну да... Ждал ответа. Конечно. Он бы не провернул трюк с Войцехом без вашего одобрения. Хотя недели маловато. Либо его гонец загнал десять лошадей, либо лорд Скаладан был уверен, что вы согласитесь."
-    me "没错……在等回音。当然。没有您的许可，他不可能对Vojceh耍花招。虽然一周时间有点短。要么他的信使跑死了十匹马，要么斯卡拉丹领主确信您会同意。"
+    me "没错……在等回音。当然。没有您的许可，他不可能对Vojceh耍花招。虽然一周时间有点短。要么他的信使跑死了十匹马，要么Skaladan领主确信您会同意。"
 
 # game/a14/9cold_council.rpy:276
 translate english cold_council_5101bf72:
 
     # me "А если он так думал, значит его контрпредложение было ценным. Снятия вотума недоверия? Маловато. Видимо еще голос на следующем Вече."
-    me "如果他这么想，就意味着他的反提议很有价值。撤销不信任动议？这太少了。显然还有下次维切会议的一票。"
+    me "如果他这么想，就意味着他的反提议很有价值。撤销不信任动议？这太少了。显然还有下次议事会会议的一票。"
 
 # game/a14/9cold_council.rpy:277
 translate english cold_council_7ebfa696:
@@ -1504,7 +1504,7 @@ translate english cold_council_5b08e2a3:
 translate english cold_council_d539ec3e:
 
     # me "Триумфатор Лорд Скаладан. Мудрый Король Севера и бедняга Войцех."
-    me "胜利者斯卡拉丹领主。睿智的北方国王和可怜的Vojceh。"
+    me "胜利者Skaladan领主。睿智的北方国王和可怜的Vojceh。"
 
 # game/a14/9cold_council.rpy:282
 translate english cold_council_03ab7b1d:
@@ -1570,7 +1570,7 @@ translate english cold_council_3a87a1c3:
 translate english cold_council_c9bae629:
 
     # gaston "Думаю вы ошблись, принц [mename]. Горцы регулярно мучают наши земли. Скаладан просто защищался. Борис ведь послал вас с сопроводительным письмом."
-    gaston "我想您弄错了，[mename]王子。高地人经常劫掠我们的土地。斯卡拉丹只是在自卫。鲍里斯可是派您带着随行信函过去的。"
+    gaston "我想您弄错了，[mename]王子。高地人经常劫掠我们的土地。Skaladan只是在自卫。Boris可是派您带着随行信函过去的。"
 
 # game/a14/9cold_council.rpy:295
 translate english cold_council_a36ba241:
@@ -2146,7 +2146,7 @@ translate english cold_council_44b7b993:
 translate english cold_council_1dbf4492:
 
     # me "{i}Борис все равно не дал бы мне Север.{/i}"
-    me "{i}鲍里斯反正也不会把北方给我。{/i}"
+    me "{i}Boris反正也不会把北方给我。{/i}"
 
 # game/a14/9cold_council.rpy:401
 translate english cold_council_e93533fc:
@@ -3184,7 +3184,7 @@ translate english cold_council_cate_dd2d1d95_13:
 translate english cold_council_cate_31590757:
 
     # me "Видимо Борис Дубовицкий часто обманывает своих гостей и тебе часто приходится заглаживать вину, стоя на коленях."
-    me "看来鲍里斯·Dubovitsky经常欺骗他的客人，你也总得跪着替他赔罪。"
+    me "看来Boris·Dubovitsky经常欺骗他的客人，你也总得跪着替他赔罪。"
 
 # game/a14/9cold_council.rpy:605
 translate english cold_council_cate_b4aff129:
@@ -4342,7 +4342,7 @@ translate english cold_council2_5459e0f2:
 translate english cold_council2_db5a8b45:
 
     # ramona "Эйрик и Корвин-младший."
-    ramona "Eirik和小科文。"
+    ramona "Eirik和小Corvin。"
 
 # game/a14/9cold_council.rpy:824
 translate english cold_council2_9d8550f7:
@@ -4534,7 +4534,7 @@ translate english cold_council2_c137cadc:
 translate english cold_council2_c45ea79f:
 
     # me "Думаю, что сын лорда Украдского тебе подойдет."
-    me "我认为乌克拉德领主的儿子会适合你。"
+    me "我认为Ukradsky领主的儿子会适合你。"
 
 # game/a14/9cold_council.rpy:861
 translate english cold_council2_ee14b762:
@@ -4558,7 +4558,7 @@ translate english cold_council2_4a00ca6e:
 translate english cold_council2_eadc2140:
 
     # me "Хорошо. Отправишься в замок вместе с лордом Украдским."
-    me "好的。你将和乌克拉德领主一同前往他的城堡。"
+    me "好的。你将和Ukradsky领主一同前往他的城堡。"
 
 # game/a14/9cold_council.rpy:865
 translate english cold_council2_484ca316:
@@ -4654,7 +4654,7 @@ translate english cold_council2_4ee5889b:
 translate english cold_council2_f82dbfbb:
 
     # me "Именно поэтому это будет для нас полезно. К тому же лорд Гастон похоже не слишком зависит от Бориса."
-    me "正因此这对我们会有用。况且，Gaston领主看起来不怎么依赖于鲍里斯。"
+    me "正因此这对我们会有用。况且，Gaston领主看起来不怎么依赖于Boris。"
 
 # game/a14/9cold_council.rpy:884
 translate english cold_council2_0d32f7a8_1:
@@ -5368,7 +5368,7 @@ translate english cold_council2_5c76dbe7:
 translate english cold_council2_d3f7919c:
 
     # me "{i}Если бы я отправился домой через Вольные Города, а я бы мог заехать в Бригдок.{/i}"
-    me "{i}如果我穿过“自由城邦”回家，我就能顺道去布里格多克。{/i}"
+    me "{i}如果我穿过“自由城邦”回家，我就能顺道去Brigdock。{/i}"
 
 # game/a14/9cold_council.rpy:1014
 translate english cold_council2_77f7d2ac:
@@ -5518,7 +5518,7 @@ translate english cold_council2_62b23cfb:
 translate english cold_council2_322def0d:
 
     # cass "Я не об этом. Как-то это... мелко. Ты принц Золотой Империи. Наследник. Рушить отношения с тобой ради такой ничтожной цели. Всего один голос на Вече."
-    cass "我不是指那个。我是觉得这有点……小家子气。你是黄金帝国的王子。继承人。为了一个如此微不足道的目标而破坏与你的关系。就只是在维切会议上的一票而已。"
+    cass "我不是指那个。我是觉得这有点……小家子气。你是黄金帝国的王子。继承人。为了一个如此微不足道的目标而破坏与你的关系。就只是在议事会会议上的一票而已。"
 
 # game/a14/9cold_council.rpy:1042
 translate english cold_council2_ae943762:
@@ -5896,7 +5896,7 @@ translate english strings:
 
     # game/a14/9cold_council.rpy:856
     old "Выбрать сына лорда Украдского"
-    new "选择乌克拉德领主的儿子"
+    new "选择Ukradsky领主的儿子"
 
     # game/a14/9cold_council.rpy:856
     old "Выбрать сына лорда Гастона"
@@ -5932,7 +5932,7 @@ translate english cold_council_32640cb8:
 translate english cold_council_cfc56818:
 
     # gaston "Думаю вы ошиблись, принц [mename]. Горцы регулярно мучают наши земли. Скаладан просто защищался. Борис ведь послал вас с сопроводительным письмом."
-    gaston "我想您弄错了，[mename]王子。高地人经常劫掠我们的土地。斯卡拉丹只是在自卫。鲍里斯可是派您带着随行信函过去的。"
+    gaston "我想您弄错了，[mename]王子。高地人经常劫掠我们的土地。Skaladan只是在自卫。Boris可是派您带着随行信函过去的。"
 
 # game/a14/9cold_council.rpy:337
 translate english cold_council_147b1978:

@@ -16,7 +16,7 @@ translate english tavern_fest_358d6dab:
 translate english tavern_fest_2309ef44:
 
     # me "Может. Будешь в Бригдоке можешь зайти в таверну 'Пьяная Свинья' и спросить сам."
-    me "可能的。到了布里格多克，你可以去“醉猪”酒馆亲自问问。"
+    me "可能的。到了Brigdock，你可以去“醉猪”酒馆亲自问问。"
 
 # game/a8/3tavern_fest.rpy:10
 translate english tavern_fest_355876f0:

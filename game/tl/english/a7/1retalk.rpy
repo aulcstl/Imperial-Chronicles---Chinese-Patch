@@ -3046,7 +3046,7 @@ translate english retalk6_239ca319:
 translate english retalk6_28747607:
 
     # lagg "Меня зовут Лаггариус, я представляю вассалов Северных Марок. Графа Пойнаса, графа...."
-    lagg "我叫Laggarius，我代表北部边疆的封臣们。珀伊纳斯伯爵、……伯爵"
+    lagg "我叫Laggarius，我代表北部边疆的封臣们。Pojnas伯爵、……伯爵"
 
 # game/a7/1retalk.rpy:650
 translate english retalk6_abf8c3ca:

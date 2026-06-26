@@ -22,7 +22,7 @@ translate english lords_lords_00c2a61a:
 translate english lords_lords_4091cc03:
 
     # slug "Семья лорда Корвина уже ни одну сотню лет выкорчевывает другие деревья."
-    slug "Corwin大人的家族几百年来一直在砍伐其他树木。"
+    slug "Corwin大人的家族已经连根拔除其他树木好几百年了。"
 
 # game/a14/1lords_lords.rpy:7
 translate english lords_lords_3044e87a:
@@ -262,7 +262,7 @@ translate english lords_lords_d6f6e909:
 translate english lords_lords_01e74d57:
 
     # corvin "Зависит от лорда. Скаладан и Виктор продолжают вешать их за любые провинности. Дубовицкий чуть помягче, Гастон больше по дворфам, хе-хе, а Войцех и сам дает им работу. Правда не замке."
-    corvin "这取决于哪位领主了。斯卡拉丹和维克托仍然会为任何过失吊死他们。杜博维茨基稍微温和些，加斯顿更喜欢矮人，呵呵，而Vojceh自己也给他们工作。不过不是在城堡里。"
+    corvin "这取决于哪位领主了。Skaladan和Viktor仍然会为任何过失吊死他们。Dubovitsky稍微温和些，Gaston更喜欢矮人，呵呵，而Vojceh自己也给他们工作。不过不是在城堡里。"
 
 # game/a14/1lords_lords.rpy:50
 translate english lords_lords_3119e4c0:
@@ -292,7 +292,7 @@ translate english lords_lords_102f4042:
 translate english lords_lords_3175d7ea:
 
     # corvin "А кто про него помнит? Я даже не знаю кто там сейчас лорд, они уже лет десять отправляют на вече гонца с голосом за Дубовицкого."
-    corvin "谁还记得那里？我甚至不知道现在的领主是谁，他们十年来都只是派个信使去维切，投票都跟着杜博维茨基。"
+    corvin "谁还记得那里？我甚至不知道现在的领主是谁，他们十年来都只是派个信使去议事会，投票都跟着Dubovitsky。"
 
 # game/a14/1lords_lords.rpy:55
 translate english lords_lords_7ba5d0e4:
@@ -604,7 +604,7 @@ translate english lords_lords_ccab9272:
 translate english lords_lords_3630e9b9:
 
     # corvin "Верно... верно... Уверен Скаладан собрал немалую армию. От парочки моих людей силы не прибавится. Уверен Виктор или Гастон вам помогут больше."
-    corvin "没错... 没错... 我相信Scaladan已经集结了一支不小的军队了。多了我这区区几个人也不顶事。相信维克托或加斯顿能帮您更多。"
+    corvin "没错... 没错... 我相信Scaladan已经集结了一支不小的军队了。多了我这区区几个人也不顶事。相信Viktor或Gaston能帮您更多。"
 
 # game/a14/1lords_lords.rpy:112
 translate english lords_lords_c88753d3:
@@ -652,13 +652,13 @@ translate english lords_lords_262db7e9:
 translate english lords_lords_e02a8985:
 
     # corvin "Мог бы проявить больше инициативы. Это шанс породниться с легендарными Стархэдами."
-    corvin "你本该表现得更主动些。这可是跟传奇的斯塔赫德家联姻的机会。"
+    corvin "你本该表现得更主动些。这可是跟传奇的Starhead家联姻的机会。"
 
 # game/a14/1lords_lords.rpy:122
 translate english lords_lords_03ac93bd:
 
     # corvin_j "Разве Рамона Стархэд?"
-    corvin_j "Ramona是斯塔赫德家的吗？"
+    corvin_j "Ramona是Starhead家的吗？"
 
 # game/a14/1lords_lords.rpy:123
 translate english lords_lords_97656163:
@@ -670,7 +670,7 @@ translate english lords_lords_97656163:
 translate english lords_lords_56ef648b:
 
     # corvin "Это младший дом Стархэдов."
-    corvin "那是斯塔赫德家的分支家族。"
+    corvin "那是Starhead家的分支家族。"
 
 # game/a14/1lords_lords.rpy:125
 translate english lords_lords_31deba7e:
@@ -754,7 +754,7 @@ translate english lords_lords_8c6d2ee6:
 translate english lords_lords_7731b958:
 
     # corvin "КОРВИН!"
-    corvin "科文！"
+    corvin "Corvin！"
 
 # game/a14/1lords_lords.rpy:140
 translate english lords_lords_70fbf195:
@@ -1234,7 +1234,7 @@ translate english lords_lords_c97f0c35:
 translate english lords_lords_534d121d:
 
     # me "{i}Виктор Украдский. Точно.{/i}"
-    me "{i}维克托·Ukradsky。没错。{/i}"
+    me "{i}Viktor·Ukradsky。没错。{/i}"
 
 # game/a14/1lords_lords.rpy:229
 translate english lords_lords_7265c62e:
@@ -1264,7 +1264,7 @@ translate english lords_lords_665ed902:
 translate english lords_lords_69d6e17b:
 
     # me "[cass]? Я думал ты будешь ждать меня у Украдских."
-    me "[cass]？我以为你会在乌克拉德家等我。"
+    me "[cass]？我以为你会在Ukradsky家等我。"
 
 # game/a14/1lords_lords.rpy:236
 translate english lords_lords_0ad32c95:
@@ -1462,7 +1462,7 @@ translate english lords_lords_4b53f4f6:
 translate english lords_lords_130bd979:
 
     # me "Да. Уже завтра. Встретимся у Украдского."
-    me "嗯。明天就走。在乌克拉德家碰头。"
+    me "嗯。明天就走。在Ukradsky家碰头。"
 
 # game/a14/1lords_lords.rpy:274
 translate english lords_lords2_dba4e06b:
@@ -1474,7 +1474,7 @@ translate english lords_lords2_dba4e06b:
 translate english lords_lords2_73f5a605:
 
     # ukrad "...принц-регент Золотой Империи [mename] Стархэд."
-    ukrad "...黄金帝国的摄政王子，[mename]·斯塔赫德。"
+    ukrad "...黄金帝国的摄政王子，[mename]·Starhead。"
 
 # game/a14/1lords_lords.rpy:276
 translate english lords_lords2_7c2d482c:
@@ -1498,7 +1498,7 @@ translate english lords_lords2_f022eb87:
 translate english lords_lords2_9fdaf9a9:
 
     # ukrad "Лорду Украдскому от короля Севера Бориса Дубовицкого."
-    ukrad "北方国王鲍里斯·杜博维茨基致乌克拉德领主。"
+    ukrad "北方国王Boris·Dubovitsky致Ukradsky领主。"
 
 # game/a14/1lords_lords.rpy:281
 translate english lords_lords2_f080d451:
@@ -1594,7 +1594,7 @@ translate english lords_lords2_92428447:
 translate english lords_lords2_e7e4e81c:
 
     # ukrad "Смешно. Мой сын чуть не лишился глаза, когда мы приезжали свататься к Дубовицким. А теперь я должна впустить ораву солдат, большая часть из которых, даже не северяне, в свой замок."
-    ukrad "真可笑。上次我们去找杜博维茨基家提亲，我的儿子差点被弄瞎一只眼睛。而如今我却要放一大群士兵进我的城堡，其中大部分甚至都不是北方人。"
+    ukrad "真可笑。上次我们去找Dubovitsky家提亲，我的儿子差点被弄瞎一只眼睛。而如今我却要放一大群士兵进我的城堡，其中大部分甚至都不是北方人。"
 
 # game/a14/1lords_lords.rpy:298
 translate english lords_lords2_04b1d3e0:
@@ -1726,7 +1726,7 @@ translate english lords_lords2_d582a57e:
 translate english lords_lords2_1ba01a06:
 
     # ukrads "И какой герб у Украдских?"
-    ukrads "那乌克拉德家的纹章是什么？"
+    ukrads "那Ukradsky家的纹章是什么？"
 
 # game/a14/1lords_lords.rpy:323
 translate english lords_lords2_b4053edb:
@@ -1744,7 +1744,7 @@ translate english lords_lords2_e145d5b9:
 translate english lords_lords2_d689fb10:
 
     # ramona "Их должно было быть три. Одна следила за южной дорогой, другая за переправой в Белую Рощу, а третья за северной дорогой. Но основатель дома Виктор Украдский умер до завершения третьей."
-    ramona "本来应该有三座。一座监视南边的路，一座监视通往白桦林的渡口，第三座监视北边的路。但家族的创始人维克托·Ukradsky在第三座塔完工前就去世了。"
+    ramona "本来应该有三座。一座监视南边的路，一座监视通往白桦林的渡口，第三座监视北边的路。但家族的创始人Viktor·Ukradsky在第三座塔完工前就去世了。"
 
 # game/a14/1lords_lords.rpy:326
 translate english lords_lords2_4618ba17:
@@ -1774,7 +1774,7 @@ translate english lords_lords2_894a86dc:
 translate english lords_lords2_d72fd3d4:
 
     # ukrads "Ну тогда про битву у Трех Братьев. Единственная крупная победа людей над дворфами за всю войну с ними. Армией тогда руководил Варрик Стархэд."
-    ukrads "那就说说三兄弟之战吧。那是人类对矮人整个战争中唯一的一次大胜。当时指挥军队的是瓦里克·斯塔赫德。"
+    ukrads "那就说说三兄弟之战吧。那是人类对矮人整个战争中唯一的一次大胜。当时指挥军队的是瓦里克·Starhead。"
 
 # game/a14/1lords_lords.rpy:331
 translate english lords_lords2_d9965c08:
@@ -1798,7 +1798,7 @@ translate english lords_lords2_149b3064_1:
 translate english lords_lords2_bf001071:
 
     # ukrad "Вы принц Золотой Империи. Но прибыли на Север и работаете на Дубовицкого. Должна же быть какая-то у этого причина."
-    ukrad "您是黄金帝国的王子。却来到了北方，为杜博维茨基效力。这背后一定有什么原因。"
+    ukrad "您是黄金帝国的王子。却来到了北方，为Dubovitsky效力。这背后一定有什么原因。"
 
 # game/a14/1lords_lords.rpy:336
 translate english lords_lords2_3820771a:
@@ -1858,7 +1858,7 @@ translate english lords_lords2_2c3e72c8:
 translate english lords_lords2_0f4bab1f:
 
     # ukrad "Страна горцев на Северо-Западе. Там земли лорда Войцеха и Скаладана. Когда-то часть из них была землей кланов. А после серии войн был заключен договор о границах на определенных условиях."
-    ukrad "山民的领地在西北边。那里是Vojceh大人和斯卡拉丹的土地。曾经有一部分属于各个氏族。经过一系列的战争后，才签署了在某些条件下划定边界的条约。"
+    ukrad "山民的领地在西北边。那里是Vojceh大人和Skaladan的土地。曾经有一部分属于各个氏族。经过一系列的战争后，才签署了在某些条件下划定边界的条约。"
 
 # game/a14/1lords_lords.rpy:346
 translate english lords_lords2_a2534a18:
@@ -1882,7 +1882,7 @@ translate english lords_lords2_28a77562:
 translate english lords_lords2_6f0807cf:
 
     # ukrad "А вы думали брак освящал шут? Скаладан взял девчонку в жёны в Норграде. Поклялся перед лицом безымянного бога. Поэтому так долго и боялся сообщить о своей беде Дубовицкому и остальным."
-    ukrad "您以为主持婚礼的是个小丑吗？Scaladan是在诺格勒城娶的那姑娘。在无名之神面前发了誓。所以他才这么久都不敢把自己的麻烦事告诉杜博维茨基和其他人。"
+    ukrad "您以为主持婚礼的是个小丑吗？Scaladan是在诺格勒城娶的那姑娘。在无名之神面前发了誓。所以他才这么久都不敢把自己的麻烦事告诉Dubovitsky和其他人。"
 
 # game/a14/1lords_lords.rpy:350
 translate english lords_lords2_90875763:
@@ -1894,7 +1894,7 @@ translate english lords_lords2_90875763:
 translate english lords_lords2_2ad84393:
 
     # ukrad "Мой муж ездил к Скаладану. Теперь отправился с новостями к Дубовицкому."
-    ukrad "我丈夫去过Scaladan那里。现在带着消息去找杜博维茨基了。"
+    ukrad "我丈夫去过Scaladan那里。现在带着消息去找Dubovitsky了。"
 
 # game/a14/1lords_lords.rpy:353
 translate english lords_lords2_96bec7a5:
@@ -1930,7 +1930,7 @@ translate english lords_lords2_3770ae7e:
 translate english lords_lords2_5ca1e9f1:
 
     # ukrad "Потому что вы на Севере новое лицо. Эльфы наглые, но не глупые. Они не станут рисковать без причины."
-    ukrad "因为您是北方上的新面孔。精灵们嚣张，但不蠢。没理由他们不会冒险。"
+    ukrad "因为您是北方上的新面孔。精灵们嚣张，但不蠢。他们不会没理由的冒险。"
 
 # game/a14/1lords_lords.rpy:359
 translate english lords_lords2_49fdf535:
@@ -1942,7 +1942,7 @@ translate english lords_lords2_49fdf535:
 translate english lords_lords2_044de267:
 
     # ukrad "Вполне. Виктор не слишком внимателен и недостаточно мстителен."
-    ukrad "很可能。Vic托尔不够警觉，报复心也不够强。"
+    ukrad "很可能。Viktor不够警觉，报复心也不够强。"
 
 # game/a14/1lords_lords.rpy:361
 translate english lords_lords2_13f9e135:
@@ -1960,7 +1960,7 @@ translate english lords_lords2_9f0f9537:
 translate english lords_lords2_18ed4978:
 
     # ukrad "А то, что его ручные длинноухие крысы воруют здесь, он продает на юг. Лорду Пойнасу или еще какому-нибудь нечистому на руку лорду. Лорд Корвин ублюдок и вор."
-    ukrad "至于他驯养的那些长耳朵耗子在这里偷的东西，他会卖到南方去。卖给珀伊纳斯大人或其他哪个手脚不干净的领主。Corwin大人是个混蛋和小偷。"
+    ukrad "至于他驯养的那些长耳朵耗子在这里偷的东西，他会卖到南方去。卖给Pojnas大人或其他哪个手脚不干净的领主。Corwin大人是个混蛋和小偷。"
 
 # game/a14/1lords_lords.rpy:364
 translate english lords_lords2_92ced8b9:
@@ -1972,13 +1972,13 @@ translate english lords_lords2_92ced8b9:
 translate english lords_lords2_790d1e66:
 
     # ukrad "Нет. Есть еще дряхлые старики по типу Гастона, идиоты по типу Войцеха, сумасшедшие по типу Острожских, ну и конечно хитрецы по типу Дубовицких."
-    ukrad "没有。还有像加斯顿那样老朽的家伙，像Vojceh那样的白痴，像奥斯特罗日斯基家那样的疯子，当然了，还有像杜博维茨基家那样的狡猾之辈。"
+    ukrad "没有。还有像Gaston那样老朽的家伙，像Vojceh那样的白痴，像Ostrozhskys家那样的疯子，当然了，还有像Dubovitsky家那样的狡猾之辈。"
 
 # game/a14/1lords_lords.rpy:366
 translate english lords_lords2_8f2c805d:
 
     # me "Острожские из Каменного Копья?"
-    me "石矛堡的奥斯特罗日斯基家？"
+    me "石矛堡的Ostrozhskys家？"
 
 # game/a14/1lords_lords.rpy:367
 translate english lords_lords2_ffd21c9d:
@@ -2002,7 +2002,7 @@ translate english lords_lords2_46dba31c:
 translate english lords_lords2_2fd71f70:
 
     # me "А что про Украдских скажете?"
-    me "那您对乌克拉德家有什么看法呢？"
+    me "那您对Ukradsky家有什么看法呢？"
 
 # game/a14/1lords_lords.rpy:371
 translate english lords_lords2_b651b8c5:
@@ -2020,7 +2020,7 @@ translate english lords_lords2_9cedc0c8:
 translate english lords_lords2_ffb9cfb5:
 
     # ukrad "Только если вы не захотите ночевать в одной из башен, принц."
-    ukrad "除非您不想睡在塔楼里，王子。"
+    ukrad "除非您想在一座塔楼里过夜，王子殿下。"
 
 # game/a14/1lords_lords.rpy:375
 translate english lords_lords2_c043b8b5:
@@ -2122,7 +2122,7 @@ translate english lords_lords2_d503ef86:
 translate english lords_lords2_47cb7835:
 
     # me "Это вовсе ни к чему. Замок Украдских - лучший что я посетил по пути к Скаладану. Жена лорда Украдского была очень учтива, гостепримна и добра. Предоставила все что требовалось в документе. И даже больше."
-    me "这完全没必要。乌克拉德城堡是我去往Scaladan大人领地途中所拜访过的最好的地方。乌克拉德领主的妻子非常礼貌、好客且善良。她提供了文件上要求的一切。甚至更多。"
+    me "这完全没必要。Ukradsky城堡是我去往Scaladan大人领地途中所拜访过的最好的地方。Ukradsky领主的妻子非常礼貌、好客且善良。她提供了文件上要求的一切。甚至更多。"
 
 # game/a14/1lords_lords.rpy:392
 translate english lords_lords2_a6c3bd21:
@@ -2230,7 +2230,7 @@ translate english lords_lords2_3820771a_1:
 translate english lords_lords2_244e3efc:
 
     # ukrad "Ну что ты там возишься?"
-    ukrad "你在里面磨蹭什么呢？"
+    ukrad "你在那磨蹭什么呢？"
 
 # game/a14/1lords_lords.rpy:413
 translate english lords_lords2_6cb725a4:
@@ -2296,7 +2296,7 @@ translate english lords_lords2_94122a9c:
 translate english lords_lords2_b1b85a1b:
 
     # ukrad "А как мне по другому было понять? Я вижу тебя в первый раз в жизни, [cassa] Стархэд."
-    ukrad "不然我怎么分得清？我这辈子头一回见你，[cassa]·斯塔赫德。"
+    ukrad "不然我怎么分得清？我这辈子头一回见你，[cassa]·Starhead。"
 
 # game/a14/1lords_lords.rpy:425
 translate english lords_lords2_e9e9dc23:
@@ -2584,7 +2584,7 @@ translate english lords_lords2_c97fadc0:
 translate english lords_lords2_493e7c4a:
 
     # ukrad "По-вашему все женщины на севере такие же, как жена лорда Дубовицкого?"
-    ukrad "在您看来，所有北方女人都跟杜博维茨基领主的妻子一个样吗？"
+    ukrad "在您看来，所有北方女人都跟Dubovitsky领主的妻子一个样吗？"
 
 # game/a14/1lords_lords.rpy:476
 translate english lords_lords2_e055c7e5:
@@ -2596,13 +2596,13 @@ translate english lords_lords2_e055c7e5:
 translate english lords_lords2_0182a5d8:
 
     # ukrad "И не увидите. Современный Север это королевство вдовцов. Жена Корвина умерла от болезни. Жена Гастона во время родов. Скаладан прикончил свою жену сам. Войцех вообще не женат."
-    ukrad "而且你也见不到了。如今的北方是个鳏夫王国。科文的妻子病死了。加斯顿的妻子难产死了。斯卡拉丹亲手结果了自己的妻子。Vojceh根本没结婚。"
+    ukrad "而且你也见不到了。如今的北方是个鳏夫王国。Corvin的妻子病死了。Gaston的妻子难产死了。Skaladan亲手结果了自己的妻子。Vojceh根本没结婚。"
 
 # game/a14/1lords_lords.rpy:478
 translate english lords_lords2_f69db304:
 
     # me "А лорд Острожский?"
-    me "那奥斯特罗日斯基大人呢？"
+    me "那Ostrozhskys大人呢？"
 
 # game/a14/1lords_lords.rpy:479
 translate english lords_lords2_b617a783:
@@ -2620,7 +2620,7 @@ translate english lords_lords2_609dab6b:
 translate english lords_lords2_90e9c46f:
 
     # ukrad "Не все женщины на Севере кроткие. Спросите лорда Дубовицкого о его матери. Она держала в страхе половину Севера при жизни."
-    ukrad "不是所有北方的女性都温顺。去问问杜博维茨基大人关于他母亲的事。她生前吓得住半个北方的人。"
+    ukrad "不是所有北方的女性都温顺。去问问Dubovitsky大人关于他母亲的事。她生前吓得住半个北方的人。"
 
 # game/a14/1lords_lords.rpy:482
 translate english lords_lords2_5a4b95da:
@@ -2632,13 +2632,13 @@ translate english lords_lords2_5a4b95da:
 translate english lords_lords2_c12c2c3c:
 
     # ukrad "Ладно. Я не с Севера. Я из Междуречья. Хелен Лартуа до замужества."
-    ukrad "好吧。我不是北方人。我来自河间地。出嫁前是Helen Ukradskaya·拉尔图阿。"
+    ukrad "好吧。我不是北方人。我来自河间地。出嫁前是Helen·Lartua。"
 
 # game/a14/1lords_lords.rpy:484
 translate english lords_lords2_2edaccbf:
 
     # me "Лартуа? Кайден Лартуа женится на моей сестре. Он вам..."
-    me "拉尔图阿？Kayden·拉尔图阿要娶我妹妹了。他是您..."
+    me "Lartua？Kayden·Lartua要娶我妹妹了。他是您..."
 
 # game/a14/1lords_lords.rpy:485
 translate english lords_lords2_714b7541:
@@ -2890,7 +2890,7 @@ translate english lords_lords3_57da0f67:
 translate english lords_lords3_ebf401f5:
 
     # me "Приятно пахнете госпожа Украдская."
-    me "您闻起来很香，乌克拉德夫人。"
+    me "您闻起来很香，Ukradsky夫人。"
 
 # game/a14/1lords_lords.rpy:539
 translate english lords_lords3_a119702c:
@@ -3382,19 +3382,19 @@ translate english lords_lords3_e721ea9c:
 translate english lords_lords3_23000b7a:
 
     # me "Нет. Девка меня не устроит. Хочу заснуть с вами, Хелен."
-    me "不。别的女人不行。我想和您一起入睡，Helen Ukradskaya。"
+    me "不。别的女人不行。我想和您一起入睡，Helen Lartua。"
 
 # game/a14/1lords_lords.rpy:633
 translate english lords_lords3_ba36766e:
 
     # ukrad "Госпожа Украдская."
-    ukrad "是乌克拉德夫人。"
+    ukrad "是Ukradsky夫人。"
 
 # game/a14/1lords_lords.rpy:634
 translate english lords_lords3_4dbdf9c8:
 
     # me "Госпожа Украдская предоставит мне полсотни воинов. А заснуть я хочу с Хелен."
-    me "乌克拉德夫人会提供给我五十名战士。而我想和Helen Ukradskaya一起入睡。"
+    me "Ukradsky夫人会提供给我五十名战士。而我想和Helen Lartua一起入睡。"
 
 # game/a14/1lords_lords.rpy:635
 translate english lords_lords3_de66741d:
@@ -3796,7 +3796,7 @@ translate english lords_lords3_1e231cfe:
 translate english lords_lords3_75c700cc:
 
     # me "Ладно. Только ради вас Хелен."
-    me "好吧。只为了您，Helen Ukradskaya。"
+    me "好吧。只为了您，Helen Lartua。"
 
 # game/a14/1lords_lords.rpy:707
 translate english lords_lords3_ff8af13e_11:
@@ -3964,7 +3964,7 @@ translate english lords_lords3_88ef6b0e:
 translate english lords_lords3_e2c9be3c:
 
     # me "Спасибо, госпожа Украдская."
-    me "谢谢您，乌克拉德夫人。"
+    me "谢谢您，Ukradsky夫人。"
 
 # game/a14/1lords_lords.rpy:737
 translate english lords_lords3_a01123b2:
@@ -3976,7 +3976,7 @@ translate english lords_lords3_a01123b2:
 translate english lords_lords3_4c5e4ed1:
 
     # me "Конечно. Иначе вы бы вряд ли просили наполнить вас моим семенем."
-    me "当然。不然您大概也不会求我用我的种子填满您。"
+    me "当然。不然您大概不会求我用我的种子填满您。"
 
 # game/a14/1lords_lords.rpy:739
 translate english lords_lords3_72821dca:
@@ -4126,7 +4126,7 @@ translate english lords_lords3_0c69a0b9:
 translate english lords_lords3_b46927a2:
 
     # me "До встречи, госпожа Украдская."
-    me "再会了，乌克拉德夫人。"
+    me "再会了，Ukradsky夫人。"
 
 # game/a14/1lords_lords.rpy:765
 translate english lords_lords3_825611ed:
@@ -4150,7 +4150,7 @@ translate english lords_lords3_5_6248ef9f:
 translate english lords_lords3_5_fcfb11ec:
 
     # me "{i}Если и в Дархолле мне не дадут достаточно солдат, придется быть на обеспечении у Скаладана.{/i}"
-    me "{i}如果我在达克霍尔也得不到足够的士兵，我就得靠Scaladan来补给了。{/i}"
+    me "{i}如果我在Darkhall也得不到足够的士兵，我就得靠Scaladan来补给了。{/i}"
 
 # game/a14/1lords_lords.rpy:772
 translate english lords_lords3_5_d0ccb860:
@@ -4174,7 +4174,7 @@ translate english lords_lords3_5_2c158291:
 translate english lords_lords3_5_da535a22:
 
     # me "{i}В конце концов, если леди Украдская не лжет, Скаладан поставил себя в безвыходное положение.{/i}"
-    me "{i}归根结底，如果乌克拉德夫人没撒谎，Scaladan是把自己逼上了绝路。{/i}"
+    me "{i}归根结底，如果Ukradsky夫人没撒谎，Scaladan是把自己逼上了绝路。{/i}"
 
 # game/a14/1lords_lords.rpy:776
 translate english lords_lords3_5_475ee5d5:
@@ -4228,7 +4228,7 @@ translate english lords_lords3_5_82c8c88b:
 translate english lords_lords3_5_bd36fcaf:
 
     # me "{i}Ладно. Может в Даркхолле мне улыбнется удача.{/i}"
-    me "{i}算了。或许在达克霍尔我能走运。{/i}"
+    me "{i}算了。或许在Darkhall我能走运。{/i}"
 
 # game/a14/1lords_lords.rpy:787
 translate english lords_lords3_5_9990ed7b:
@@ -4246,19 +4246,19 @@ translate english lords_lords4_06f71100:
 translate english lords_lords4_7b69446d:
 
     # me "Вот он. Камень цвергов. Мы на правильном пути."
-    me "就在那儿。矮人的石头。我们走的路是对的。"
+    me "到了。兹韦尔吉（矮人）的石头。路没错。"
 
 # game/a14/1lords_lords.rpy:793
 translate english lords_lords4_0d7e5790:
 
     # teos "Цвергов? Дворфов."
-    teos "矮人？是矮人吧。"
+    teos "兹韦尔吉？该叫德沃夫（矮人）。"
 
 # game/a14/1lords_lords.rpy:794
 translate english lords_lords4_1ca80d5a:
 
     # me "Не. Это сделали цверги. По крайней мере так написано на карте."
-    me "不是。这是矮人（цверги）造的。至少地图上是这么写的。"
+    me "不。这是兹韦尔吉（矮人）弄的。地图上就这么写的。"
 
 # game/a14/1lords_lords.rpy:795
 translate english lords_lords4_52602032:
@@ -4270,7 +4270,7 @@ translate english lords_lords4_52602032:
 translate english lords_lords4_be7ae980:
 
     # me "Не уверен. Когда я пил с ними в Бригдоке они объясняли, но я не запомнил. Вроде одни живут под землей."
-    me "不确定。我在布里格多克跟他们喝酒时，他们解释过，但我没记住。好像是一种住在地下的。"
+    me "不确定。我在Brigdock跟他们喝酒时，他们解释过，但我没记住。好像是一种住在地下的。"
 
 # game/a14/1lords_lords.rpy:797
 translate english lords_lords4_52853c56:
@@ -4432,7 +4432,7 @@ translate english lords_lords4_dc6f38bf:
 translate english lords_lords4_d2085152:
 
     # murra "Приветствую. Я - Муррабард. Это - Габбтон. Ты эльф?"
-    murra "致敬。我是穆拉巴德。这是Gabbton。你是精灵吗？"
+    murra "致敬。我是Murrabard。这是Gabbton。你是精灵吗？"
 
 # game/a14/1lords_lords.rpy:826
 translate english lords_lords4_b8b88d2d:
@@ -4486,13 +4486,13 @@ translate english lords_lords4_11f772c6:
 translate english lords_lords4_f9de3f6c:
 
     # me "Мы ищем дорогу к Даркхоллу."
-    me "我们在找去达克霍尔的路。"
+    me "我们在找去Darkhall的路。"
 
 # game/a14/1lords_lords.rpy:835
 translate english lords_lords4_290874d7:
 
     # murra "Даркхолл? Это Danklas Schalas?"
-    murra "达克霍尔？就是 Danklas Schalas？"
+    murra "Darkhall？就是 Danklas Schalas？"
 
 # game/a14/1lords_lords.rpy:836
 translate english lords_lords4_8e9a5b64:
@@ -5232,7 +5232,7 @@ translate english strings:
 
     # game/a14/1lords_lords.rpy:909
     old "Поддержать Мурабарда"
-    new "支持穆拉巴德"
+    new "支持Murrabard"
 
     # game/a14/1lords_lords.rpy:909
     old "Поддержать Габбтона"
@@ -5266,7 +5266,7 @@ translate english lords_lords_17a4386e:
 translate english lords_lords_2e078e64:
 
     # corvin "Зависит от лорда. Скаладан и Виктор продолжают вешать их за любые провинности. Дубовицкий чуть помягче, Гастон больше по дворфам, хе-хе, а Войцех и сам дает им работу. Правда не в замке."
-    corvin "这取决于哪位领主了。斯卡拉丹和维克托仍然会为任何过失吊死他们。杜博维茨基稍微温和些，加斯顿更喜欢矮人，呵呵，而Vojceh自己也给他们工作。不过不是在城堡里。"
+    corvin "这取决于哪位领主了。Skaladan和Viktor仍然会为任何过失吊死他们。Dubovitsky稍微温和些，Gaston更喜欢矮人，呵呵，而Vojceh自己也给他们工作。不过不是在城堡里。"
 
 # game/a14/1lords_lords.rpy:81
 translate english lords_lords_257935f9:

@@ -454,7 +454,7 @@ translate english northroad_8283ac89:
 translate english northroad_f15d3fdf:
 
     # me "{i}Когда я гнил в Бригдоке я мечтал, что когда-нибудь смогу обрести волю и средства, чтобы объездить весь мир.{/i}"
-    me "{i}当初在布里格多克腐烂等死时，我还梦想着有朝一日能获得自由和财富，好能周游世界。{/i}"
+    me "{i}当初在Brigdock腐烂等死时，我还梦想着有朝一日能获得自由和财富，好能周游世界。{/i}"
 
 # game/a13/8northroad.rpy:88
 translate english northroad_b2695c02:

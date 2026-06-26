@@ -172,7 +172,7 @@ translate english highland_end_e67c347c:
 translate english highland_end_da04c46a:
 
     # me "Амина, лорд Скаладан и твой отец нарушили несколько договоров. Но я прибыл сюда от имени лордов. Понимаешь почему?"
-    me "Amina，斯卡拉丹领主和你父亲已经违反了好几项协议。但我是代表领主们来到这里的。你知道为什么吗？"
+    me "Amina，Skaladan领主和你父亲已经违反了好几项协议。但我是代表领主们来到这里的。你知道为什么吗？"
 
 # game/a14/6north_end.rpy:37
 translate english highland_end_6649c9e9_1:

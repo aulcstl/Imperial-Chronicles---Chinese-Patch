@@ -28,7 +28,7 @@ translate english wife_brith_aur_31465652:
 translate english wife_brith_aur_cc3e4b9f:
 
     # aurora "Их меньшинство. Они знают, что если снова созовут вече - мой отец победит, так что пытаются вставлять палки в колеса по-другому."
-    aurora "他们是少数派。他们知道如果再次召开维切大会，我父亲会赢，所以才想方设法用别的手段使绊子。"
+    aurora "他们是少数派。他们知道如果再次召开议事会大会，我父亲会赢，所以才想方设法用别的手段使绊子。"
 
 # game/a12/6wife_brith.rpy:15
 translate english wife_brith_aur_1b4c17d1:
@@ -760,7 +760,7 @@ translate english wife_brith_isi_60e1d7f4:
 translate english wife_brith_isi_2b097119:
 
     # me "У них выборная система. Они голосуют за короля на вече."
-    me "他们是选举制。他们在维切大会上给国王投票。"
+    me "他们是选举制。他们在议事会大会上给国王投票。"
 
 # game/a12/6wife_brith.rpy:150
 translate english wife_brith_isi_3c648a59:
@@ -8710,7 +8710,7 @@ translate english wife_brith3_isi_ebe2c560:
 translate english wife_brith3_isi_12fdef78:
 
     # isi "Не очень. Он довольно умелый политик. Иначе его бы не избирали королем на вече раз за разом."
-    isi "不太大。他是个相当老练的政客。不然也不会在维切大会上一次又一次当选国王。"
+    isi "不太大。他是个相当老练的政客。不然也不会在议事会大会上一次又一次当选国王。"
 
 # game/a12/6wife_brith.rpy:1652
 translate english wife_brith3_isi_e56d0198:
@@ -8722,7 +8722,7 @@ translate english wife_brith3_isi_e56d0198:
 translate english wife_brith3_isi_b00aec7f:
 
     # isi "В системе. Скоро будет новое вече, а твоя мать предложила ему несколько дипломатических браков. Империя получит союзника, а Дубовицкий укрепит свое положение перед выборами."
-    isi "在体制本身。马上就有一场新的维切大会了，而你母亲提议了几桩联姻。帝国会因此多一位盟友，而Dubovitsky也能在选举前巩固自己的地位。"
+    isi "在体制本身。马上就有一场新的议事会大会了，而你母亲提议了几桩联姻。帝国会因此多一位盟友，而Dubovitsky也能在选举前巩固自己的地位。"
 
 # game/a12/6wife_brith.rpy:1654
 translate english wife_brith3_isi_e7133aad:
@@ -9094,7 +9094,7 @@ translate english wife_brith3_isi_0792d236:
 translate english wife_brith3_isi_9b35087d:
 
     # mom "Нет. В конце этого года будет вече. Политические браки Лорду Дубовицкому сейчас по душе."
-    mom "不反对。今年年底就会召开维切大会。Dubovitsky领主眼下对政治联姻很上心。"
+    mom "不反对。今年年底就会召开议事会大会。Dubovitsky领主眼下对政治联姻很上心。"
 
 # game/a12/6wife_brith.rpy:1723
 translate english wife_brith3_isi_254cb0d3:

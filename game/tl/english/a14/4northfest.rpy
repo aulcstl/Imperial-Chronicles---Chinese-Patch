@@ -82,7 +82,7 @@ translate english northfest_aeb35a95:
 translate english northfest_866fd21c:
 
     # me "Ну тут только два варианта. Либо лорд Скаладан специально провоцирует бойню... либо лорд Войцех серьезно ошибся. Я склоняюсь к первому."
-    me "嗯，这里只有两种可能。要么斯卡拉丹大人故意在挑起一场屠杀……要么Vojceh大人犯了个严重的错误。我更倾向于前者。"
+    me "嗯，这里只有两种可能。要么Skaladan大人故意在挑起一场屠杀……要么Vojceh大人犯了个严重的错误。我更倾向于前者。"
 
 # game/a14/4northfest.rpy:17
 translate english northfest_601508f2:
@@ -160,7 +160,7 @@ translate english northfest_aa20892b:
 translate english northfest_8df7709b:
 
     # me "Я схожу на эти соревнования и поищу там Войцеха, а ты пока передай послание Скаладану. Пусть выставит воинов вдоль всей реки и пошлет сотен пять в обход."
-    me "我去那些比赛场地找找Vojceh，你去给斯卡拉丹传令。让他沿河全线布兵，再派五百人包抄。"
+    me "我去那些比赛场地找找Vojceh，你去给Skaladan传令。让他沿河全线布兵，再派五百人包抄。"
 
 # game/a14/4northfest.rpy:31
 translate english northfest_f4db7dc4:
@@ -238,7 +238,7 @@ translate english northfest_cb01456f:
 translate english northfest_b0adefe8:
 
     # harold "Это с учетом людей Скаладана за рекой. Что-то мне подсказывает, что если они ее перейдут, то горцы сбегут вместе с Войцехом."
-    harold "这还得算上斯卡拉丹在河对岸的人。我感觉，一旦他们过河，山民就会带上Vojceh一起逃跑。"
+    harold "这还得算上Skaladan在河对岸的人。我感觉，一旦他们过河，山民就会带上Vojceh一起逃跑。"
 
 # game/a14/4northfest.rpy:45
 translate english northfest_10e9e9a4:
@@ -286,7 +286,7 @@ translate english northfest_36fbd586:
 translate english northfest_747d1642:
 
     # me "Хорошая идея. Монтак - отправляйся к Скаладану и все ему передай."
-    me "好主意。Montak——去找斯卡拉丹，把命令传达给他。"
+    me "好主意。Montak——去找Skaladan，把命令传达给他。"
 
 # game/a14/4northfest.rpy:53
 translate english northfest_0fb30b11:
@@ -2014,7 +2014,7 @@ translate english northfest_ee7d11dc:
 translate english northfest_e7298e6f:
 
     # me "Ты что-нибудь знаешь о письме, которое написал Скаладан Войцеху?"
-    me "关于斯卡拉丹写给Vojceh的那封信，你知道些什么吗？"
+    me "关于Skaladan写给Vojceh的那封信，你知道些什么吗？"
 
 # game/a14/4northfest.rpy:375
 translate english northfest_b0541c32:

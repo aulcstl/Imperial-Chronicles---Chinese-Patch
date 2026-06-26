@@ -3094,7 +3094,7 @@ translate english cassbass_fix_1d68a19f:
 translate english cassbass_fix_3f9e364e:
 
     # me "Ага. Приехал жених. Лартуа. Какой-то совсем юный парнишка. Короче подстать невесте."
-    me "嗯。新郎来了。是拉尔图阿。一个非常年轻的小伙子。总之，和新娘很般配。"
+    me "嗯。新郎来了。是Lartua。一个非常年轻的小伙子。总之，和新娘很般配。"
 
 # game/a12/4cassbass.rpy:597
 translate english cassbass_fix_0a60de78:

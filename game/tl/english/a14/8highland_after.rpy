@@ -3527,7 +3527,7 @@ translate english highland_after2_e3170552:
 translate english highland_after2_5de6fc8e:
 
     # me "{i}Нет. Мне еще нужно вернуть солдат леди Украдской.{/i}"
-    me "{i}不。我还得把士兵还给乌克拉德女领主。{/i}"
+    me "{i}不。我还得把士兵还给Ukradsky女领主。{/i}"
 
 # game/a14/8highland_after.rpy:666
 translate english highland_after2_13aa7667:
@@ -4169,7 +4169,7 @@ translate english highland_after2_88a52e7b:
 translate english highland_after2_a0040964:
 
     # ukrad "Он провоцирует кланы лучше остальных. И убивает их тоже. Гастон и Войцех просто защищают границы. Но только не этот ублюдок."
-    ukrad "他比别人更擅长挑衅那些部族。也擅长杀他们。加斯顿和Vojceh只是守卫边境。但这个混蛋不一样。"
+    ukrad "他比别人更擅长挑衅那些部族。也擅长杀他们。Gaston和Vojceh只是守卫边境。但这个混蛋不一样。"
 
 # game/a14/8highland_after.rpy:788
 translate english highland_after2_96e4beca:

@@ -1750,7 +1750,7 @@ translate english guests4_342fc141:
 translate english guests4_07b1ec70:
 
     # corina "Из Вольных городов на Севере. Бригдок. Это бедный портовый городок. Вы о нем и не слышали наверное."
-    corina "来自北方的自由城邦。布里格多克。一个穷困的港口小镇。你们多半没听说过。"
+    corina "来自北方的自由城邦。Brigdock。一个穷困的港口小镇。你们多半没听说过。"
 
 # game/a11/3guests.rpy:351
 translate english guests4_c18d04a4:

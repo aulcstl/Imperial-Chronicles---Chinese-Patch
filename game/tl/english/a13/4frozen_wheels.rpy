@@ -3544,7 +3544,7 @@ translate english frozen_wheels2_b62250d8:
 translate english frozen_wheels2_76f53e06:
 
     # dubov "С тех пор прошла почти сотня лет. Один из горских князей женил сестру на лорде Скаладане. Но брак был расторгнут."
-    dubov "从那以后过了将近一百年。一位山区王公把妹妹嫁给了斯卡拉丹领主。但婚姻被解除了。"
+    dubov "从那以后过了将近一百年。一位山区王公把妹妹嫁给了Skaladan领主。但婚姻被解除了。"
 
 # game/a13/4frozen_wheels.rpy:647
 translate english frozen_wheels2_5ac38cf1:
@@ -3556,7 +3556,7 @@ translate english frozen_wheels2_5ac38cf1:
 translate english frozen_wheels2_5fda42a5:
 
     # dubov "Это мне неизвестно. Но горцы посчитали себя оскорбленными. Они говорят, что раз Скаладан не держит слово, они могут не держать свое."
-    dubov "这我不知道。但山区人觉得受了侮辱。他们说，既然斯卡拉丹不守信，他们也就不必守信。"
+    dubov "这我不知道。但山区人觉得受了侮辱。他们说，既然Skaladan不守信，他们也就不必守信。"
 
 # game/a13/4frozen_wheels.rpy:649
 translate english frozen_wheels2_f0315fc2:
@@ -3604,7 +3604,7 @@ translate english frozen_wheels2_cadda22a:
 translate english frozen_wheels2_faa12c8f:
 
     # dubov "Разрыв брака не предполагает разрыв договора горцев перед всем Севером. Их нежелание честного суда понятно. Но Скаладан тоже не чист, раз собирает солдат и думает что война лучше, чем суд, где могут вскрыться его преступления."
-    dubov "婚姻破裂并不意味着山区人对整个北方的誓约破裂。他们不愿接受公正审判可以理解。但斯卡拉丹也不干净，因为他集结士兵，认为战争比审判更好，在审判中他的罪行可能会暴露。"
+    dubov "婚姻破裂并不意味着山区人对整个北方的誓约破裂。他们不愿接受公正审判可以理解。但Skaladan也不干净，因为他集结士兵，认为战争比审判更好，在审判中他的罪行可能会暴露。"
 
 # game/a13/4frozen_wheels.rpy:657
 translate english frozen_wheels2_adc36abc:
@@ -3640,7 +3640,7 @@ translate english frozen_wheels2_23d7ec4b:
 translate english frozen_wheels2_6c663160:
 
     # dubov "Второй это лорд Войцех. Его земля по соседствую. Он принял сторону Скаладана и пострадал так сказать 'за компанию'. Если бы не он, я бы вообще об этом не узнал."
-    dubov "第二位是沃伊切赫领主。他的领地相邻。他站在斯卡拉丹一边，可以说是“受牵连”。如果不是他，我根本不会知道这事。"
+    dubov "第二位是沃伊切赫领主。他的领地相邻。他站在Skaladan一边，可以说是“受牵连”。如果不是他，我根本不会知道这事。"
 
 # game/a13/4frozen_wheels.rpy:663
 translate english frozen_wheels2_443feffe:

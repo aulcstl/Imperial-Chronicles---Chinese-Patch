@@ -1498,7 +1498,7 @@ translate english little_hunt_b2b1f860:
 translate english little_hunt_6dc9084e:
 
     # eva "В Бригдоке."
-    eva "在布里格多克。"
+    eva "在Brigdock。"
 
 # game/a13/5little_hunt.rpy:272
 translate english little_hunt_3fd05c5b:
@@ -1510,7 +1510,7 @@ translate english little_hunt_3fd05c5b:
 translate english little_hunt_7bfe837a:
 
     # eva "Хотя в Бригдоке вы наверное жевали рыбу."
-    eva "不过我想在布里格多克，你们大概嚼的是鱼肉。"
+    eva "不过我想在Brigdock，你们大概嚼的是鱼肉。"
 
 # game/a13/5little_hunt.rpy:274
 translate english little_hunt_18f2a1c3:

@@ -1954,7 +1954,7 @@ translate english highland_fd7cfbc6:
 translate english highland_ea8e327f:
 
     # me "{size=-2}Я в этом уверен. Чего я понять не могу, это зачем Скаладан позвал сюда Войцеха, в чем его интерес? Или он просто ошибся, но он же не может быть настолько кретином? Или может?{/size}"
-    me "{size=-2}我对此很确定。我不明白的是，为什么斯卡拉丹要把Vojceh招来这里，他的利益点是什么？或者他只是犯了个错误？但他不至于愚蠢到这个地步吧？或者他真就这么蠢？{/size}"
+    me "{size=-2}我对此很确定。我不明白的是，为什么Skaladan要把Vojceh招来这里，他的利益点是什么？或者他只是犯了个错误？但他不至于愚蠢到这个地步吧？或者他真就这么蠢？{/size}"
 
 # game/a14/3highland.rpy:358
 translate english highland_e638d143:
@@ -2638,7 +2638,7 @@ translate english highland_05566720:
 translate english highland_7a5ead27:
 
     # me "{i}Если бы только я мог прочитать это письмо, я бы сразу понял, это злой умысел Скаладана или глупость Войцеха.{/i}"
-    me "{i}要是我能读到那封信就好了，我就能立刻明白，到底是斯卡拉丹的恶毒算计，还是Vojceh的愚蠢。{/i}"
+    me "{i}要是我能读到那封信就好了，我就能立刻明白，到底是Skaladan的恶毒算计，还是Vojceh的愚蠢。{/i}"
 
 # game/a14/3highland.rpy:483
 translate english highland_6c590b64:

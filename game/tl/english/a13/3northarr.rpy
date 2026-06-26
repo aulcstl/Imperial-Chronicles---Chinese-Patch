@@ -2986,7 +2986,7 @@ translate english northarr3_1e164293:
 translate english northarr3_d9387c25:
 
     # dubov "В Бригдоке."
-    dubov "在布里格多克。"
+    dubov "在Brigdock。"
 
 # game/a13/3northarr.rpy:556
 translate english northarr3_5ea04477:
@@ -3040,7 +3040,7 @@ translate english northarr3_34c9eddc:
 translate english northarr3_40930161:
 
     # eva "И чему учат в Бригдоке?"
-    eva "在布里格多克都学些什么？"
+    eva "在Brigdock都学些什么？"
 
 # game/a13/3northarr.rpy:566
 translate english northarr3_b7bb176b:
@@ -3082,7 +3082,7 @@ translate english northarr3_e093ea17:
 translate english northarr3_2f9d9fc8:
 
     # eva "Что? Просто спрашиваю. Что за университет в Бригдоке? Слышала об университете в Ривелье, академии в Золотой Столице, о магических башнях, а об университете в Ривелье ничего не слышала, представляете?"
-    eva "怎么啦？就问问嘛。布里格多克有什么大学？我听说过Rivelle的大学，黄金都城的学院，还有魔法塔，但布里格多克的大学我可从没听说过，您能想象吗？"
+    eva "怎么啦？就问问嘛。Brigdock有什么大学？我听说过Rivelle的大学，黄金都城的学院，还有魔法塔，但Brigdock的大学我可从没听说过，您能想象吗？"
 
 # game/a13/3northarr.rpy:573
 translate english northarr3_03d8281a:
@@ -3094,7 +3094,7 @@ translate english northarr3_03d8281a:
 translate english northarr3_01d1b486:
 
     # eva "А что так? Отчислили? Бригдокский университет... академия рыбных наук оказалась принцу не по зубам?"
-    eva "为什么呀？被开除了？布里格多克大学...鱼类科学院对王子来说太难啃了？"
+    eva "为什么呀？被开除了？Brigdock大学...鱼类科学院对王子来说太难啃了？"
 
 # game/a13/3northarr.rpy:575
 translate english northarr3_c93a7309_1:
@@ -3106,7 +3106,7 @@ translate english northarr3_c93a7309_1:
 translate english northarr3_13e98203:
 
     # eva "Мне просто интересно как преподают и как учатся в таком центре науки как Бригдок, матушка."
-    eva "我只是想知道，在布里格多克这样的学术中心是怎么教学和学习的，母亲。"
+    eva "我只是想知道，在Brigdock这样的学术中心是怎么教学和学习的，母亲。"
 
 # game/a13/3northarr.rpy:577
 translate english northarr3_e36375c8:
@@ -5586,7 +5586,7 @@ translate english northarr_2a46c153:
 translate english northarr3_908f29bd:
 
     # eva "Что? Просто спрашиваю. Что за университет в Бригдоке? Слышала об университете в Ривелье, академии в Золотой Столице, о магических башнях, а об университете в Бригдоке ничего не слышала, представляете?"
-    eva "怎么啦？就问问嘛。布里格多克有什么大学？我听说过Rivelle的大学，黄金都城的学院，还有魔法塔，但布里格多克的大学我可从没听说过，您能想象吗？"
+    eva "怎么啦？就问问嘛。Brigdock有什么大学？我听说过Rivelle的大学，黄金都城的学院，还有魔法塔，但Brigdock的大学我可从没听说过，您能想象吗？"
 
 # game/a13/3northarr.rpy:633
 translate english northarr3_053674fd:

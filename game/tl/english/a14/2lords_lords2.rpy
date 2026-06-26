@@ -64,7 +64,7 @@ translate english lords_lords5_170081bc:
 translate english lords_lords5_1579d17c:
 
     # gaston "Он же вроде гость лорда Дубовицкого."
-    gaston "他好像是杜博维茨基领主的客人。"
+    gaston "他好像是Dubovitsky领主的客人。"
 
 # game/a14/2lords_lords2.rpy:20
 translate english lords_lords5_b3505601:
@@ -262,7 +262,7 @@ translate english lords_lords5_5bc72bfc:
 translate english lords_lords5_f5be5fe8:
 
     # gaston "Ох... совсем забыл представить вам свою супругу. Аврора Сапега. Дочь лорда Дубовицкого."
-    gaston "哦……我完全忘了向您介绍我的妻子。Aurora·萨佩加。杜博维茨基领主的女儿。"
+    gaston "哦……我完全忘了向您介绍我的妻子。Aurora·萨佩加。Dubovitsky领主的女儿。"
 
 # game/a14/2lords_lords2.rpy:60
 translate english lords_lords5_f1d30c7c:
@@ -460,7 +460,7 @@ translate english lords_lords5_c2be15d4:
 translate english lords_lords5_526ff125:
 
     # gaston "А... Его только назначили на должность имперского смотрителя сюда. В честь него организовывали праздник в замке Дубовицких. Там была вся молодежь Севера. В том числе и я."
-    gaston "啊……他刚被任命为这里的帝国巡察官。为了庆祝他的到来，在杜博维茨基家的城堡举办了宴会。当时北方国所有的年轻人都去了。也包括我。"
+    gaston "啊……他刚被任命为这里的帝国巡察官。为了庆祝他的到来，在Dubovitsky家的城堡举办了宴会。当时北方国所有的年轻人都去了。也包括我。"
 
 # game/a14/2lords_lords2.rpy:96
 translate english lords_lords5_058579e3:
@@ -1732,7 +1732,7 @@ translate english lords_lords6_c493068b:
 translate english lords_lords6_4649357a:
 
     # me "{i}Ладно... Королю Севера Борису Дубовицкому.{/i}"
-    me "{i}行吧……致北方国王鲍里斯·杜博维茨基。{/i}"
+    me "{i}行吧……致北方国王Boris·Dubovitsky。{/i}"
 
 # game/a14/2lords_lords2.rpy:332
 translate english lords_lords6_c95bbf3b:
