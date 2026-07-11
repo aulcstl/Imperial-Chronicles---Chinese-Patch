@@ -1,7 +1,7 @@
 translate english strings:
 
     old "Элис"
-    new "Elis"
+    new "Elis(艾丽丝)"
 
     old "сестра"
     new "妹妹"
@@ -31,16 +31,16 @@ translate english strings:
     new "妹妹~"
 
     old "Вэл"
-    new "Val"
+    new "Val(维尔)"
 
     old "Алесса"
-    new "Alessa"
+    new "Alessa(阿莱萨)"
 
     old "Джуно"
-    new "Juno"
+    new "Juno(朱诺)"
 
     old "Роза"
-    new "Rosa"
+    new "Rosa(罗莎)"
 
     old "Девочка"
     new "女孩"
@@ -49,16 +49,16 @@ translate english strings:
     new "老太婆"
 
     old "Акер"
-    new "Aker"
+    new "Aker(阿克尔)"
 
     old "Людвиг"
-    new "Ludwig"
+    new "Ludwig(路德维希)"
 
     old "Леди"
     new "女士"
 
     old "Элин"
-    new "Elin"
+    new "Elin(埃琳)"
 
     old "Красный Король"
     new "红王"
@@ -73,13 +73,13 @@ translate english strings:
     new "森林女神"
 
     old "Сона"
-    new "Sona"
+    new "Sona(索娜)"
 
     old "Веснушка"
     new "雀斑姑娘"
 
     old "Алейна"
-    new "Alaina"
+    new "Alaina(阿莱娜)"
 
     old "Леди [alaina]"
     new "[alaina]女士"
@@ -94,10 +94,10 @@ translate english strings:
     new "孪生姐妹"
 
     old "Кэсс"
-    new "Cass"
+    new "Cass(凯丝)"
 
     old "Кассандра"
-    new "Cassandra"
+    new "Cassandra(卡桑德拉)"
 
     old "Череп"
     new "骷髅"
@@ -124,16 +124,16 @@ translate english strings:
     new "妈妈"
 
     old "Конрад"
-    new "Conrad"
+    new "Conrad(康拉德)"
 
     old "Лия"
-    new "Lia"
+    new "Lia(莉亚)"
 
     old "Офи"
-    new "Ophie"
+    new "Ophie(奥菲)"
 
     old "Офелия"
-    new "Ophelia"
+    new "Ophelia(奥菲莉亚)"
 
     old "Горожанин"
     new "市民(男)"
@@ -142,34 +142,34 @@ translate english strings:
     new "市民(女)"
 
     old "Преториус"
-    new "Pretorius"
+    new "Pretorius(普雷托里乌斯)"
 
     old "Калахан"
-    new "Callahan"
+    new "Callahan(卡拉汉)"
 
     old "Аркадия"
-    new "Arcadia"
+    new "Arcadia(阿卡迪亚)"
 
     old "Гуран"
-    new "Guran"
+    new "Guran(古兰)"
 
     old "Южанка"
     new "南方女人"
 
     old "Ахара"
-    new "Ahara"
+    new "Ahara(阿哈拉)"
 
     old "Элин2"
-    new "Elin2"
+    new "Elin2(埃琳2)"
 
     old "Дворф"
     new "矮人"
 
     old "Гвадар"
-    new "Gwadar"
+    new "Gwadar(瓜达尔)"
 
     old "Тира"
-    new "Tira"
+    new "Tira(蒂拉)"
     
     old "Помощник доктора"
     new "医生的助手"
@@ -193,40 +193,40 @@ translate english strings:
     new "精灵女孩"
 
     old "Алианна"
-    new "Alianna"
+    new "Alianna(阿莉安娜)"
 
     old "Паладин Гаскойн"
-    new "圣骑士Gascoigne"
+    new "圣骑士Gascoigne(加斯科因)"
 
     old "Паладин Захария"
-    new "圣骑士Zacharia"
+    new "圣骑士Zacharia(扎卡里亚)"
 
     old "Паладин Иллис"
-    new "圣骑士Illis"
+    new "圣骑士Illis(伊利斯)"
 
     old "Гэлливан"
-    new "Gallivan"
+    new "Gallivan(加利文)"
 
     old "Жанкой"
-    new "Jankoy"
+    new "Jankoy(扬科伊)"
 
     old "Фиона"
-    new "Fiona"
+    new "Fiona(菲奥娜)"
 
     old "Питер"
-    new "Peter"
+    new "Peter(彼得)"
 
     old "Лиза"
-    new "Lisa"
+    new "Lisa(丽莎)"
 
     old "Анна"
-    new "Hannah"
+    new "Anna(安娜)"
 
     old "Северный Рыцарь"
     new "北方骑士"
 
     old "Аврора"
-    new "Aurora"
+    new "Aurora(奥萝拉)"
 
     old "Заключенный"
     new "囚犯"
@@ -256,10 +256,10 @@ translate english strings:
     new "南方战士"
 
     old "Исида"
-    new "Isis"
+    new "Isis(伊西斯)"
 
     old "Локхарт"
-    new "Lockhart"
+    new "Lockhart(洛克哈特)"
 
     old "Смотритель"
     new "看守人"
@@ -268,7 +268,7 @@ translate english strings:
     new "乞丐"
 
     old "Мэг"
-    new "Meg"
+    new "Meg(梅格)"
 
     old "Дровосек"
     new "樵夫"
@@ -277,16 +277,16 @@ translate english strings:
     new "Isis之影"
 
     old "Дороти"
-    new "Dorothy"
+    new "Dorothy(多萝西)"
 
     old "Амалия"
-    new "Amalia"
+    new "Amalia(阿玛莉亚)"
 
     old "Рабыня"
     new "女奴"
 
     old "Пэтти"
-    new "Patty"
+    new "Patty(帕蒂)"
 
     old "Дворянка"
     new "女贵族"
@@ -319,19 +319,19 @@ translate english strings:
     new "[elin](女演员)"
 
     old "Гутцгор"
-    new "Guzgor"  
+    new "Guzgor(古兹戈尔)"
 
     old "Друг Роуэна"
     new "Rowan的朋友"
     
     old "Роуэн"
-    new "Rowan"
+    new "Rowan(罗温)"
 
     old "Неизвестный"
-    new "身份不明的男人" 
+    new "身份不明的男人"
 
     old "Лора"
-    new "Lora"
+    new "Lora(洛拉)"
 
     old "Аврора и [mename]"
     new "Aurora和[mename]"
@@ -340,13 +340,13 @@ translate english strings:
     new "[elin]和Lockhart"
 
     old "Борис"
-    new "Boris"
+    new "Boris(鲍里斯)"
 
     old "Проситель"
     new "请愿者"
 
     old "Присцилла"
-    new "Priscilla"
+    new "Priscilla(普里西拉)"
 
     old "Стражник"
     new "卫兵"
@@ -358,22 +358,22 @@ translate english strings:
     new "Arcadia的儿子"
 
     old "Артур"
-    new "Arthur"
+    new "Arthur(亚瑟)"
 
     old "Морган"
-    new "Morgan"
+    new "Morgan(摩根)"
 
     old "Доктор"
     new "医生"
 
     old "Норман"
-    new "Norman"
+    new "Norman(诺曼)"
 
     old "Рэндольф"
-    new "Randolph"
+    new "Randolph(伦道夫)"
 
     old "Лео"
-    new "Leo"
+    new "Leo(利奥)"
 
     old "Стражи"
     new "卫兵们"
@@ -382,10 +382,10 @@ translate english strings:
     new "卫兵"
 
     old "Хьюго"
-    new "Hugo"
+    new "Hugo(雨果)"
 
     old "Мартин"
-    new "Martin"
+    new "Martin(马丁)"
 
     old "Граф"
     new "伯爵"
@@ -397,28 +397,28 @@ translate english strings:
     new "伯爵与伯爵夫人"
 
     old "Орис"
-    new "Oris"
+    new "Oris(奥里斯)"
 
     old "Знать"
     new "贵族们"
     
     old "Филипп"
-    new "Philip"
+    new "Philip(菲利普)"
 
     old "Леонард"
-    new "Leonard"
+    new "Leonard(伦纳德)"
 
     old "Ральф"
-    new "Ralph"
+    new "Ralph(拉尔夫)"
 
     old "Саймон"
-    new "Saimon"
+    new "Saimon(赛蒙)"
 
     old "Уличная Шлюха"
     new "街头妓女"
 
     old "Бруно"
-    new "Bruno"
+    new "Bruno(布鲁诺)"
 
     old "Стражник Замка"
     new "城堡卫兵"
@@ -439,13 +439,13 @@ translate english strings:
     new "刽子手"
 
     old "Томас"
-    new "Thomas"
+    new "Thomas(托马斯)"
 
     old "Лидия"
-    new "Lydia"
+    new "Lydia(莉迪亚)"
 
     old "Майа"
-    new "Maya"
+    new "Maya(玛雅)"
 
     old "Все Элин в помещении"
     new "屋内所有的Elin"
@@ -469,55 +469,55 @@ translate english strings:
     new "神秘女人"
 
     old "Регис"
-    new "Regis"
+    new "Regis(雷吉斯)"
 
     old "Сибилла"
-    new "Sybilla"
+    new "Sybilla(西比拉)"
 
     old "Злата"
-    new "Zlata"
+    new "Zlata(兹拉塔)"
 
     old "Азалия"
-    new "Azalia"
+    new "Azalia(阿扎莉亚)"
 
     old "Генри"
-    new "Henry"
+    new "Henry(亨利)"
 
     old "Жозефина"
-    new "Josephine"
+    new "Josephine(约瑟芬)"
 
     old "Валериан"
-    new "Valerian"
+    new "Valerian(瓦莱里安)"
 
     old "Кассиус"
-    new "Cassius"
+    new "Cassius(卡西乌斯)"
 
     old "Каталина"
-    new "Catalina"
+    new "Catalina(卡塔琳娜)"
 
     old "[lia] и [mename]"
     new "[lia]和[mename]"
 
     old "Лаггариус"
-    new "Laggarius"
+    new "Laggarius(拉加里乌斯)"
 
     old "Гвидон"
-    new "Guidon"
+    new "Guidon(吉东)"
 
     old "Арамис"
-    new "Aramis"
+    new "Aramis(阿拉米斯)"
 
     old "Валерия"
-    new "Valeria"
+    new "Valeria(瓦莱里娅)"
 
     old "Алессандра"
-    new "Alessandra"
+    new "Alessandra(亚历山德拉)"
 
     old "Аргус"
-    new "Argus"
+    new "Argus(阿尔戈斯)"
 
     old "Тарк"
-    new "Tark"
+    new "Tark(塔克)"
 
     old "Бандит"
     new "土匪"
@@ -526,7 +526,7 @@ translate english strings:
     new "土匪头子"
 
     old "Варго"
-    new "Vargo"
+    new "Vargo(瓦尔戈)"
 
     old "Женщина с мягким голосом"
     new "声音轻柔的女子"
@@ -541,10 +541,10 @@ translate english strings:
     new "人影"
 
     old "Арион"
-    new "Arion"
+    new "Arion(阿里昂)"
 
     old "Ноира"
-    new "Noira"
+    new "Noira(诺伊拉)"
 
     old "Эльфийка"
     new "女精灵"
@@ -553,13 +553,13 @@ translate english strings:
     new "精灵"
 
     old "Селестина"
-    new "Celestine"
+    new "Celestine(塞莱丝汀)"
 
     old "Учитель Магии"
     new "魔法老师"
 
     old "Серафина"
-    new "Serafina"
+    new "Serafina(塞拉菲娜)"
 
     old "Дриада"
     new "树精"
@@ -568,7 +568,7 @@ translate english strings:
     new "食人魔"
 
     old "Корнелиус"
-    new "Cornelius"
+    new "Cornelius(科尼利厄斯)"
 
     old "Западный Дворянин"
     new "西方贵族"
@@ -580,7 +580,7 @@ translate english strings:
     new "卫兵"
 
     old "Лорд Амбуш"
-    new "Lord Ambush"
+    new "Lord Ambush(安布什勋爵)"
     
     old "Гонец"
     new "信使"
@@ -589,7 +589,7 @@ translate english strings:
     new "骑士"
 
     old "Баско"
-    new "Basco"
+    new "Basco(巴斯科)"
 
     old "Таинственный Рыцарь"
     new "神秘骑士"
@@ -610,10 +610,10 @@ translate english strings:
     new "猫"
 
     old "Барт"
-    new "Bart"
+    new "Bart(巴特)"
 
     old "Мирта"
-    new "Mirta"
+    new "Mirta(米尔塔)"
 
     # game/characters.rpy:35
     old "Какое твое имя? (Стандартное - 'Элис')"
@@ -632,7 +632,7 @@ translate english strings:
     new "醉汉"
 
     old "Селина"
-    new "Selina"
+    new "Selina(塞琳娜)"
 
     old "сын"
     new "儿子"
@@ -665,10 +665,10 @@ translate english strings:
     new "声音"
 
     old "Кайден"
-    new "Kayden"
+    new "Kayden(凯登)"
 
     old "Пойнас"
-    new "Pojnas"
+    new "Pojnas(波伊纳斯)"
 
     old "Император"
     new "皇帝"
@@ -677,46 +677,46 @@ translate english strings:
     new "掠夺者"
 
     old "Дюран"
-    new "Duran"
+    new "Duran(杜兰)"
 
     old "Ульрик"
-    new "Ulrik"
+    new "Ulrik(乌尔里克)"
 
     old "Тень"
     new "暗影"
 
     old "Мелисса"
-    new "Melissa"
+    new "Melissa(梅丽莎)"
 
     old "Рагвелион"
-    new "Ragvelion"
+    new "Ragvelion(拉格维利昂)"
 
     old "Магна"
-    new "Magna"
+    new "Magna(玛格娜)"
 
     old "Повитуха"
     new "助产士"
 
     old "Лотрик"
-    new "Lothric"
+    new "Lothric(洛特里克)"
 
     old "Эльфийский оракул"
     new "精灵祭司"
 
     old "Эларион"
-    new "Elarion"
+    new "Elarion(埃拉里昂)"
 
     old "Тесса"
-    new "Tessa"
+    new "Tessa(特莎)"
 
     old "Воины"
     new "战士们"
 
     old "Эдрик"
-    new "Edriс"
+    new "Edriс(埃德里克)"
 
     old "Рамона"
-    new "Ramona"
+    new "Ramona(拉莫娜)"
 
     old "Матрос"
     new "水手"
@@ -728,121 +728,121 @@ translate english strings:
     new "船长"
 
     old "Вик"
-    new "Vic"
+    new "Vic(维克)"
 
     old "Катерина"
-    new "Katerina"
+    new "Katerina(卡捷琳娜)"
 
     old "Ева"
-    new "Eva"
+    new "Eva(伊娃)"
 
     old "Дубовицкий"
-    new "Dubovitsky"
+    new "Dubovitsky(杜博维茨基)"
 
     old "Влад"
-    new "Vlad"
+    new "Vlad(弗拉德)"
 
     old "Марен"
-    new "Maren"
+    new "Maren(马伦)"
 
     old "Юка"
-    new "Yuka"
+    new "Yuka(尤卡)"
 
     old "Глас Луны"
     new "月之声"
 
     old "Гарольд"
-    new "Harold"
+    new "Harold(哈罗德)"
 
     old "Красный Принц"
     new "红王子"
 
     old "Юлия"
-    new "Julia"
+    new "Julia(尤利娅)"
 
     old "Север"
     new "北方"
 
     old "Степан"
-    new "Stepan"
+    new "Stepan(斯捷潘)"
 
     old "Корвин"
-    new "Corwin"
+    new "Corwin(科温)"
 
     old "Миранда"
-    new "Miranda"
+    new "Miranda(米兰达)"
 
     old "Корвин Младший"
     new "小Corwin"
 
     old "Хелен"
-    new "Helen Ukradskaya"
+    new "Helen Ukradskaya(海伦·乌克兰斯卡娅)"
 
     old "Эйрик"
-    new "Eirik"
+    new "Eirik(埃里克)"
 
     old "Муррабард"
-    new "Murrabard"
+    new "Murrabard(穆拉巴德)"
 
     old "Габбтон"
-    new "Gabbton"
+    new "Gabbton(加布顿)"
 
     old "Гиель"
-    new "Giel"
+    new "Giel(吉尔)"
 
     old "Гастон"
-    new "Gaston"
+    new "Gaston(加斯顿)"
 
     old "Скаладан"
-    new "Scaladan"
+    new "Scaladan(斯卡拉丹)"
 
     old "Безымянная сестра"
     new "无名姐妹"
 
     old "Клерик"
-    new "Cleric"
+    new "Cleric(克莱里克)"
 
     old "Сестра Леонида"
     new "Leonida姐妹"
 
     old "Тэос"
-    new "Theos"
+    new "Theos(特奥斯)"
 
     old "Горец"
     new "高地人"
 
     old "Крастан"
-    new "Krastan"
+    new "Krastan(克拉斯坦)"
 
     old "Макхал"
-    new "Makhal"
+    new "Makhal(马哈尔)"
 
     old "Горянка"
     new "高地女孩"
 
     old "Войцех"
-    new "Vojceh"
+    new "Vojceh(沃伊切赫)"
 
     old "Горцы"
     new "高地人"
 
     old "Амина"
-    new "Amina"
+    new "Amina(阿米娜)"
 
     old "Алия"
-    new "Alia"
+    new "Alia(阿莉亚)"
 
     old "Монтак"
-    new "Montak"
+    new "Montak(蒙塔克)"
 
     old "Аслан"
-    new "Aslan"
+    new "Aslan(阿斯兰)"
 
     old "Воины Скаладана"
     new "Skaladan战士"
 
     old "Украдский"
-    new "Ukradsky"
+    new "Ukradsky(乌克兰斯基)"
 
     old "Мэри"
-    new "Mary"
+    new "Mary(玛丽)"
