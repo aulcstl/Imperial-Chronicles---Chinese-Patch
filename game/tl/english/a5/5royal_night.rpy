@@ -226,7 +226,7 @@ translate english royal_night_s_bfab95b9:
 translate english royal_night_s_94089a16:
 
     # isi "Империи, [mename]. Когда наш ребенок вырастет его отец уже будет носить имперскую корону."
-    isi "帝国，[人名]。等我们的孩子长大，他的父亲已经戴上皇冠了。"
+    isi "帝国，[mename]。等我们的孩子长大，他的父亲已经戴上皇冠了。"
 
 # game/a5/5royal_night.rpy:47
 translate english royal_night_s_247f1c48:
@@ -418,7 +418,7 @@ translate english royal_night_s_dfee4299:
 translate english royal_night_s_cc82af24:
 
     # isi "[mename]! СТОЙ! ЧТО ТЫ ДЕЛАЕШЬ?"
-    isi "[人名]！停下！你在干什么？"
+    isi "[mename]！停下！你在干什么？"
 
 # game/a5/5royal_night.rpy:84
 translate english royal_night_s_515d335e:
@@ -478,7 +478,7 @@ translate english royal_night_s_3820771a_1:
 translate english royal_night_s_7bbfe191:
 
     # isi "[mename]! Слишком быстро!"
-    isi "[人名]！太快了！"
+    isi "[mename]！太快了！"
 
 # game/a5/5royal_night.rpy:94
 translate english royal_night_s_3820771a_2:
@@ -700,7 +700,7 @@ translate english royal_night_s_0c258c4b:
 translate english royal_night_s_3932b6e3:
 
     # isi "О![mename]!"
-    isi "哦！[人名]！"
+    isi "哦！[mename]！"
 
 # game/a5/5royal_night.rpy:138
 translate english royal_night_s_ce807a21:
@@ -1390,7 +1390,7 @@ translate english royal_night_n_bbc4d0e6:
 translate english royal_night_n_a07222a1:
 
     # aurora "[mename]...ты сделаешь все сам?"
-    aurora "[人名]……你会自己完成所有事吗？"
+    aurora "[mename]……你会自己完成所有事吗？"
 
 # game/a5/5royal_night.rpy:275
 translate english royal_night_n_9f64248a:
@@ -1948,7 +1948,7 @@ translate english royal_night_n_d799f221:
 translate english royal_night_n_b63b5a23:
 
     # aurora "Я люблю тебя, [mename]."
-    aurora "我爱你，[人名]。"
+    aurora "我爱你，[mename]。"
 
 # game/a5/5royal_night.rpy:378
 translate english royal_night_n_f43381ea:
@@ -2008,7 +2008,7 @@ translate english royal_night_n_8e334358:
 translate english royal_night_n_c190be8a:
 
     # aurora "[mename]...прости, но можем ли мы остановиться на одном разе сегодня? Это приятно...но все еще очень больно."
-    aurora "[人名]……对不起，我们今天能只做一次就结束吗？很舒服……但还是很疼。"
+    aurora "[mename]……对不起，我们今天能只做一次就结束吗？很舒服……但还是很疼。"
 
 # game/a5/5royal_night.rpy:389
 translate english royal_night_n_60060201:
@@ -2056,7 +2056,7 @@ translate english royal_night_n_3820771a_3:
 translate english royal_night_n_71cbfc60:
 
     # aurora "[mename], ты думаешь наш первенец будет мальчиком или девочкой?"
-    aurora "[人名]，你觉得我们的头胎会是男孩还是女孩？"
+    aurora "[mename]，你觉得我们的头胎会是男孩还是女孩？"
 
 # game/a5/5royal_night.rpy:398
 translate english royal_night_n_d84978d6:
@@ -2092,7 +2092,7 @@ translate english royal_night_n_a9602ea9:
 translate english royal_night_n_ffeb17af:
 
     # aurora "…Мне тоже очень понравилось, хоть было и больно. Занимать с тобой сексом приятно, [mename]."
-    aurora "……我也很喜欢，虽然很疼。和你做爱很舒服，[人名]。"
+    aurora "……我也很喜欢，虽然很疼。和你做爱很舒服，[mename]。"
 
 # game/a5/5royal_night.rpy:404
 translate english royal_night_n_7028ccdd:
@@ -2824,7 +2824,7 @@ translate english royal_night_n_06a24206:
 translate english royal_night_n_9c4c71b9:
 
     # aurora "Да! Ладно. Прос...Спокойной ночи, [mename]. Мой муж."
-    aurora "对！好吧。抱……晚安，[人名]。我的丈夫。"
+    aurora "对！好吧。抱……晚安，[mename]。我的丈夫。"
 
 # game/a5/5royal_night.rpy:542
 translate english royal_night_n_56f6dfd9_1:
@@ -2912,7 +2912,7 @@ translate english royal_night_n_2990e0db:
 translate english royal_night_n_2707687b:
 
     # aurora "...Мне тоже очень понравилось, хоть было и больно. Заниматься с тобой сексом приятно, [mename]."
-    aurora "……我也很喜欢，虽然很疼。和你做爱很舒服，[人名]。"
+    aurora "……我也很喜欢，虽然很疼。和你做爱很舒服，[mename]。"
 
 # game/a5/5royal_night.rpy:537
 translate english royal_night_n_6cbd2ff8:
