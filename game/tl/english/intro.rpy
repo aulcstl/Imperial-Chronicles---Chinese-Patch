@@ -4,7 +4,7 @@
 translate english intro_b5ebca9d:
 
     # vall "Проклятье, нож совсем затупился."
-    vall "该死的，刀完全钝了。"
+    vall "肏，刀完全钝了。"
 
 # game/intro.rpy:4
 translate english intro_ebd8d679:
