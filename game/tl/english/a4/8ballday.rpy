@@ -10,7 +10,7 @@ translate english ballday6_snow_1ccac3f2:
 translate english ballday6_snow_41fdd804:
 
     # aurora "[mename]. Хотите потанцевать?"
-    aurora "[角色名]。想跳支舞吗？"
+    aurora "[mename]。想跳支舞吗？"
 
 # game/a4/8ballday.rpy:16
 translate english ballday6_snow_5a7a7577:
@@ -88,7 +88,7 @@ translate english ballday6_snow_c4eef57f:
 translate english ballday6_snow_e1cea337:
 
     # aurora "Да, [mename], спасибо."
-    aurora "是的，[角色名]，谢谢您。"
+    aurora "是的，[mename]，谢谢您。"
 
 # game/a4/8ballday.rpy:31
 translate english ballday6_snow_75c0f5fa:
@@ -556,7 +556,7 @@ translate english ballday6_snow_6c522b9c:
 translate english ballday6_snow_a328e010:
 
     # aurora "Спасибо, [mename], ты тоже мне нравишься. Знаешь, я сначала боялась замужества."
-    aurora "谢谢你，[角色名]，你也让我喜欢。你知道吗，我起初害怕婚姻。"
+    aurora "谢谢你，[mename]，你也让我喜欢。你知道吗，我起初害怕婚姻。"
 
 # game/a4/8ballday.rpy:124
 translate english ballday6_snow_f6352aef:
@@ -904,7 +904,7 @@ translate english ballday6_fire_28d7e050:
 translate english ballday6_fire_ed4b05de:
 
     # isid "Прости, [mename], но в тех краях, где я выросла, не принято говорить без надобности."
-    isid "对不起，[角色名]，在我长大的地方，没有必要是不兴闲聊的。"
+    isid "对不起，[mename]，在我长大的地方，没有必要是不兴闲聊的。"
 
 # game/a4/8ballday.rpy:205
 translate english ballday6_fire_644e8f33:
@@ -1000,7 +1000,7 @@ translate english ballday6_fire_19bf2856:
 translate english ballday6_fire_47bd82a2:
 
     # isid "Не спеши, [mename], дай подготовиться."
-    isid "别急，[角色名]，让我先准备一下。"
+    isid "别急，[mename]，让我先准备一下。"
 
 # game/a4/8ballday.rpy:224
 translate english ballday6_fire_b325238a:
@@ -1030,13 +1030,13 @@ translate english ballday6_fire_bc61b312:
 translate english ballday6_fire_f555a477:
 
     # isid "[mename], ты слишком нетерпеливый. Просто сиди и получай удовольствие."
-    isid "[角色名]，你太没耐心了。安心坐着享受就行。"
+    isid "[mename]，你太没耐心了。安心坐着享受就行。"
 
 # game/a4/8ballday.rpy:231
 translate english ballday6_fire_c7bbf6db:
 
     # isid "Снимай штаны, [mename]."
-    isid "把裤子脱了吧，[角色名]。"
+    isid "把裤子脱了吧，[mename]。"
 
 # game/a4/8ballday.rpy:232
 translate english ballday6_fire_ba938f09:
@@ -1354,7 +1354,7 @@ translate english ballday6_fire_6862a267:
 translate english ballday6_fire_651d7c4c:
 
     # isid "У власти нет цели, [mename]. Власть просто есть и все. За нее нужно бороться, а как ей распоряжаться каждый решает сам."
-    isid "权力没有目的，[角色名]。权力存在本身即是全部。必须为它而斗争，至于如何运用它，每个人都自己决定。"
+    isid "权力没有目的，[mename]。权力存在本身即是全部。必须为它而斗争，至于如何运用它，每个人都自己决定。"
 
 # game/a4/8ballday.rpy:296
 translate english ballday6_fire_a425b19d:
@@ -1420,7 +1420,7 @@ translate english ballday6_fire_3820771a_1:
 translate english ballday6_fire_0a2dd8ea:
 
     # isid "Мне пора спать, [mename]. Надеюсь ты еще подумаешь об этом разговоре."
-    isid "我得去睡觉了，[角色名]。希望你会再考虑一下这次谈话。"
+    isid "我得去睡觉了，[mename]。希望你会再考虑一下这次谈话。"
 
 # game/a4/8ballday.rpy:311
 translate english ballday6_fire_366c3f1a:
@@ -1504,7 +1504,7 @@ translate english ballday6_fire_d58fee8f:
 translate english ballday6_fire_c8de6e18:
 
     # isid "Ты там как, [mename]?"
-    isid "你还好吗，[角色名]？"
+    isid "你还好吗，[mename]？"
 
 # game/a4/8ballday.rpy:327
 translate english ballday6_fire_a03a7f37:
@@ -1600,7 +1600,7 @@ translate english ballday6_fire_3820771a_3:
 translate english ballday6_fire_d212046a:
 
     # isid "Мне пора спать, [mename]. Подумай о том, что здесь произошло и моих словах перед сном."
-    isid "我得去睡了，[角色名]。睡前好好想想这里发生的事，还有我说的话。"
+    isid "我得去睡了，[mename]。睡前好好想想这里发生的事，还有我说的话。"
 
 translate english strings:
 
