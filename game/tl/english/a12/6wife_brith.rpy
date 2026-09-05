@@ -6190,13 +6190,13 @@ translate english wife_brith3_aur_b97a8e60:
 translate english wife_brith3_aur_e3c93d66:
 
     # aurora "Хорошо. Теперь у тебя есть имя, [nsname]."
-    aurora "好。现在你有名字了，[孩子名]。"
+    aurora "好。现在你有名字了，[nsname]。"
 
 # game/a12/6wife_brith.rpy:1192
 translate english wife_brith3_aur_f9106893:
 
     # me "[nsname] Стархэд. Наследник Золотой Империи."
-    me "[孩子名]·Starhead。黄金帝国的继承人。"
+    me "[nsname]·Starhead。黄金帝国的继承人。"
 
 # game/a12/6wife_brith.rpy:1193
 translate english wife_brith3_aur_703dbc47:
@@ -6586,7 +6586,7 @@ translate english wife_brith3_aur_0164bf3a:
 translate english wife_brith3_aur_41a5ba82:
 
     # aurora "[nsname] проснулся?"
-    aurora "[孩子名]醒了？"
+    aurora "[nsname]醒了？"
 
 # game/a12/6wife_brith.rpy:1264
 translate english wife_brith3_aur_f84f1924:
@@ -7516,7 +7516,7 @@ translate english wife_brith3_aur_af555839:
 translate english wife_brith3_aur_039db167:
 
     # me "Еще парочку обязательно. [nsname] нуждается в братьях и сестрах."
-    me "再添几个是必须的。[孩子名]需要兄弟姐妹。"
+    me "再添几个是必须的。[nsname]需要兄弟姐妹。"
 
 # game/a12/6wife_brith.rpy:1432
 translate english wife_brith3_aur_b7d5878e:
@@ -7546,7 +7546,7 @@ translate english wife_brith3_aur_dc88b9e3:
 translate english wife_brith3_aur_1a71e564:
 
     # lia "Точно. Многотомные хроники за авторством Офелии Стархэд. 'Трое из Династии Стархэдов'. [mename], [nsname] и... Бейрик."
-    lia "没错。Ophelia·Starhead所著的多卷编年史。“Starhead王朝三人列传”。[mename]，[孩子名]，还有……贝里克。"
+    lia "没错。Ophelia·Starhead所著的多卷编年史。“Starhead王朝三人列传”。[mename]，[nsname]，还有……贝里克。"
 
 # game/a12/6wife_brith.rpy:1438
 translate english wife_brith3_aur_26ab40b2:

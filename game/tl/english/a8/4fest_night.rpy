@@ -10,7 +10,7 @@ translate english fest_night_e_7539f9af:
 translate english fest_night_e_a8d6e436:
 
     # elin "[mename] отпусти меня!"
-    elin "[人名]放开我！"
+    elin "[mename]放开我！"
 
 # game/a8/4fest_night.rpy:5
 translate english fest_night_e_55e55a35:
@@ -94,7 +94,7 @@ translate english fest_night_e_8b3046cd:
 translate english fest_night_e_p_baf8e8cf:
 
     # elin "[mename], ты чего?"
-    elin "[人名]，你要干嘛？"
+    elin "[mename]，你要干嘛？"
 
 # game/a8/4fest_night.rpy:26
 translate english fest_night_e_p_30e845e7:
@@ -226,7 +226,7 @@ translate english fest_night_e_p_ab3de37b:
 translate english fest_night_e_p_5687ea11:
 
     # elin "[mename], это какое-то безумие..."
-    elin "[人名]，这太疯狂了……"
+    elin "[mename]，这太疯狂了……"
 
 # game/a8/4fest_night.rpy:50
 translate english fest_night_e_p_f77b0ffa:
@@ -610,7 +610,7 @@ translate english fest_night_e_l_965acaa8:
 translate english fest_night_e_l_649b39db:
 
     # elin "[mename], ты..."
-    elin "[人名]，你……"
+    elin "[mename]，你……"
 
 # game/a8/4fest_night.rpy:125
 translate english fest_night_e_l_f3b44430:
@@ -628,7 +628,7 @@ translate english fest_night_e_l_481dc55e:
 translate english fest_night_e_l_6fa41422:
 
     # elin "[mename], ты очень пьян. Завтра тебе будет очень стыдно."
-    elin "[人名]，你喝得太醉了。明天你会感到非常羞愧的。"
+    elin "[mename]，你喝得太醉了。明天你会感到非常羞愧的。"
 
 # game/a8/4fest_night.rpy:128
 translate english fest_night_e_l_eb5c5192:
@@ -676,7 +676,7 @@ translate english fest_night_e_l_dfcceeac:
 translate english fest_night_e_l_ecd9ebd8:
 
     # elin "[mename], не надо."
-    elin "[人名]，不要。"
+    elin "[mename]，不要。"
 
 # game/a8/4fest_night.rpy:137
 translate english fest_night_e_l_0b8f45f7:
@@ -760,7 +760,7 @@ translate english fest_night_e_l_3820771a:
 translate english fest_night_e_l_d347657d:
 
     # elin "Стой...[mename]!"
-    elin "等等……[人名]！"
+    elin "等等……[mename]！"
 
 # game/a8/4fest_night.rpy:152
 translate english fest_night_e_l_3820771a_1:
@@ -826,7 +826,7 @@ translate english fest_night_e_l_85b112a8:
 translate english fest_night_e_l_200f42ed:
 
     # elin "[mename], я...я не симулировала..."
-    elin "[人名]，我……我没装……"
+    elin "[mename]，我……我没装……"
 
 # game/a8/4fest_night.rpy:165
 translate english fest_night_e_l_74a1aaa4:
@@ -874,7 +874,7 @@ translate english fest_night_e_l_3820771a_3:
 translate english fest_night_e_l_05213fcf:
 
     # elin "[mename], пожалуйста..."
-    elin "[人名]，求你了……"
+    elin "[mename]，求你了……"
 
 # game/a8/4fest_night.rpy:173
 translate english fest_night_e_l_3820771a_4:
@@ -910,7 +910,7 @@ translate english fest_night_e_l_3820771a_6:
 translate english fest_night_e_l_a173313f:
 
     # elin "О боги, [mename]..."
-    elin "哦，天哪，[人名]……"
+    elin "哦，天哪，[mename]……"
 
 # game/a8/4fest_night.rpy:180
 translate english fest_night_e_l_89cb32a0:
@@ -1006,7 +1006,7 @@ translate english fest_night_e_end_cc6c5f1b:
 translate english fest_night_e_end_5d2b147a:
 
     # elin "[mename]! Как ты мог не закрыть дверь?"
-    elin "[人名]！你怎么能不关门呢？"
+    elin "[mename]！你怎么能不关门呢？"
 
 # game/a8/4fest_night.rpy:201
 translate english fest_night_e_end_78f9da2c:
@@ -1120,7 +1120,7 @@ translate english fest_night_e_end_cad5093f:
 translate english fest_night_j_222c1353:
 
     # josephine "[mename], постой..."
-    josephine "[人名]，等等……"
+    josephine "[mename]，等等……"
 
 # game/a8/4fest_night.rpy:224
 translate english fest_night_j_dfcceeac:
@@ -1180,7 +1180,7 @@ translate english fest_night_j_0bcc29c8:
 translate english fest_night_j_38a2fac8:
 
     # josephine "[mename], наши желания не имеют значения..."
-    josephine "[人名]，我们的愿望不重要……"
+    josephine "[mename]，我们的愿望不重要……"
 
 # game/a8/4fest_night.rpy:236
 translate english fest_night_j_a6c0c98d:
@@ -1198,7 +1198,7 @@ translate english fest_night_j_1ef0735e:
 translate english fest_night_j_c3d17a25:
 
     # josephine "[mename], я замужем."
-    josephine "[人名]，我结婚了。"
+    josephine "[mename]，我结婚了。"
 
 # game/a8/4fest_night.rpy:239
 translate english fest_night_j_81ff3f46:
@@ -1222,7 +1222,7 @@ translate english fest_night_j_9d956fc8:
 translate english fest_night_j_cc00af7f:
 
     # josephine "[mename], я не могу!"
-    josephine "[人名]，我不能！"
+    josephine "[mename]，我不能！"
 
 # game/a8/4fest_night.rpy:243
 translate english fest_night_j_5ac38cf1:
@@ -1336,7 +1336,7 @@ translate english fest_night_j_d0467085:
 translate english fest_night_j_5787a892:
 
     # josephine "[mename], мы можем...может ты согласишься..."
-    josephine "[人名]，我们能不能……你能不能同意……"
+    josephine "[mename]，我们能不能……你能不能同意……"
 
 # game/a8/4fest_night.rpy:264
 translate english fest_night_j_dfcceeac_1:
@@ -2266,7 +2266,7 @@ translate english fest_night_j_282d2542:
 translate english fest_night_j_0dc0e13d:
 
     # josephine "Нет, не нужно...спасибо, [mename]..."
-    josephine "不用了……谢谢，[人名]……"
+    josephine "不用了……谢谢，[mename]……"
 
 # TODO: Translation updated at 2025-02-23 02:19
 
